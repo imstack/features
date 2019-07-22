@@ -112,3 +112,4 @@ ex: partners.json
 }
 ```
 
+After you've made modification to the settings, wait for github cache to clear (circa 5m), then synchronize the new data on our API in order to take effect. just click this link to sync : https://api.inmemori.com/utils/sync
