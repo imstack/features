@@ -88,8 +88,27 @@ Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
 
 # Settings
 
-Features settings can applied at different levels, each level overriding it's parent level settings.
+Features settings can applied at different levels, each level overriding it's parent level settings.  
+The level of granularity comes in the following order :
 
+- [zones.md](https://github.com/imstack/config/blob/main/zone.md)
 - [partners.json](https://github.com/imstack/config/blob/main/partners.json)
 - [agencies.json](https://github.com/imstack/config/blob/main/agencies.json)
 - [slugs.json](https://github.com/imstack/config/blob/main/slugs.json)
+
+ex: partners.json
+```
+"interflora-fr": {
+  "features": {
+     "flower": { "catalog": "interflora-fr", "hours": -2, "caid":"acct_1DJiYIGMg492Tw0T", cut: 20 }
+  }
+}
+
+"scf-marseille": {
+  "features": {
+      "flower": "interflora-fr"
+    , "book": false
+  }
+}
+```
+
