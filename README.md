@@ -7,7 +7,7 @@ An `order` object contains the relevant informations associated with that intera
 
 Each feature is assigned a unique key, and possible settings.
 
-## Active Features & settings
+## Active Features
 
 ```
 [
@@ -38,7 +38,7 @@ Make sure those templates exists in Sendgrid, for each language, otherwise an er
 Each Sendgrid template has access to an `order` object, giving context to the content of your mail.
 You can access the information by accessing the `ctx` key followed by your desired path
 ```
-    Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
+Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
 ```
 
 
@@ -86,45 +86,10 @@ You can access the information by accessing the `ctx` key followed by your desir
 ```
 
 
+# Settings
 
+Features settings can applied at different levels, each level overriding it's parent level settings.
 
-Each feature
-
-{
-  "_id": "BJB-HTmHXGS",
-  "cat": "2019-07-22T14:10:05.173Z",
-  "cat_f": "22/07/2019 - 16:10 (Paris)",
-  "shipping": {
-    "name": "Eglise Saint Sébastien",
-    "address": "Place Dr Joseph Chevillon, 13190 Allauch, France",
-    "date": "2019-08-15T08:00:00.000Z",
-    "date_f": "15/08/2019 - 10:00",
-    "amount": 1590,
-    "amount_f": "15.90€"
-  },
-  "invoice": {
-    "name": "Bruno Hervé",
-    "address": "25, boulevard Aristide Briand",
-    "city": "Le Cannet",
-    "zipcode": "06110",
-    "vat": "",
-    "phone": "0698736050",
-    "email": "bruno.h@gmail.com"
-  },
-  "item": {
-    "name": "Souvenir",
-    "product": "6P04"
-  },
-  "tx": {
-    "amount": 16080,
-    "amount_f": "160.80€",
-    "currency": "eur",
-    "pi_id": "pi_1Ez2CyDvcFOuP8N2XYHxCD7v",
-    "pm_id": "pm_1Ez2CxDvcFOuP8N24EejJg4f",
-    "ch_id": "ch_1Ez2DHDvcFOuP8N2jJiZVBrn",
-    "ca_id": "acct_1EuxorG8voAk1bsZ"
-  },
-  "meta": {
-    "message": "un joli message ❤"
-  }
-}
+- [partners.json](https://github.com/imstack/config/blob/main/partners.json)
+- [agencies.json](https://github.com/imstack/config/blob/main/agencies.json)
+- [slugs.json](https://github.com/imstack/config/blob/main/slugs.json)
