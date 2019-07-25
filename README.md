@@ -54,8 +54,8 @@ Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
     "address": "Place Dr Joseph Chevillon, 13190 Allauch, France",
     "date": "2019-08-15T08:00:00.000Z",
     "date_f": "15/08/2019 - 10:00",
-    "amount": 1590,
-    "amount_f": "15.90€"
+    "amount": 890,
+    "amount_f": "8.90€"
   },
   "invoice": {
     "name": "Bruno Hervé",
@@ -68,11 +68,15 @@ Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
   },
   "item": {
     "name": "Souvenir",
-    "product": "6P04"
+    "product": "6P04",
+    "qty": 1,
+    "amount": 500,
+    "amount_total_f": "5.00€",
+    "amount_f": "5.00€"
   },
   "tx": {
-    "amount": 16080,
-    "amount_f": "160.80€",
+    "amount": 1390,
+    "amount_f": "13.90€"
     "currency": "eur",
     "pi_id": "pi_1Ez2CyDvcFOuP8N2XYHxCD7v",
     "pm_id": "pm_1Ez2CxDvcFOuP8N24EejJg4f",
