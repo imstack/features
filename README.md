@@ -92,7 +92,7 @@ Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
 
 # Settings Overview
 
-Features settings can applied at different levels, each level overriding it's parent level settings.  
+Features settings can be applied at different levels, each level overriding it's parent level settings.  
 The level of granularity comes in the following order :
 
 - [zones.md](https://github.com/imstack/config/blob/main/zone.md)
