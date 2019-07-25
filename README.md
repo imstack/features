@@ -90,7 +90,7 @@ Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
 ```
 
 
-# Settings
+# Settings Overview
 
 Features settings can applied at different levels, each level overriding it's parent level settings.  
 The level of granularity comes in the following order :
@@ -117,3 +117,40 @@ ex: partners.json
 ```
 
 After you've made modification to the settings, wait for github cache to clear (circa 5m), then synchronize the new data on our API in order to take effect. just click this link to sync : https://api.inmemori.com/utils/sync
+
+# Settings Specs
+
+- donation  
+
+
+  | key | spec | exemple |
+  |-----|------|------|
+  | amounts | * | `30,200,150` |
+
+- flower  
+
+
+  | key | spec | exemple |
+  |-----|------|------|
+  | caid | *, connected account | `accct_1DJiYIGMg492Tv` |
+  | catalog | *, json file | `interflora-fr` |
+  | cut | % price cut | `20` |
+  | hours | hours relative to ceremony date | `-3` |
+
+- book  
+
+
+  | key | spec | exemple |
+  |-----|------|------|
+  | caid | *, connected account | `accct_1DJiYIGMg492Tv` |
+  | catalog | *, json file | `imprimeur-paris` |
+  | cut | % price cut | `20` |
+
+- gcard  
+
+
+  | key | spec | exemple |
+  |-----|------|------|
+  | caid | *, connected account | `accct_1DJiYIGMg492Tv` |
+  | catalog | *, json file | `imprimeur-paris` |
+  | cut | % price cut | `20` |
