@@ -1,4 +1,9 @@
 {
+  "shipping": {
+      "price": 8.90
+    , "info": "Livraison France uniquement"
+  },
+  
   "catalog": [
     { 
         "product": "B1"
