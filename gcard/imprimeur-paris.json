@@ -1,11 +1,12 @@
 {
   "shipping":{
-    "price":8.90,
+    "price":4.90,
     "info":"Livraison France uniquement"
   },
   "catalog":[
     {
       "product":"G1",
+      "price":5
       "name":{
         "fr":"Carte de remerciement",
         "en":"Carte de remerciement",
