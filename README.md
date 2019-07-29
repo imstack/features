@@ -32,15 +32,25 @@ Each feature is assigned a unique key, and possible settings.
 
 ## Emails & templates
 
-For example, if you set `emails: 'client,team'` for the feature key `flower`, then 2 emails will be sent with the following template names `client-flower` & `team-flower`.  
-Make sure those templates exists in Sendgrid, for each language, otherwise an error will be thrown.
+Each features sends predefined emails templates. You have to set those templates in the `[emails.json](https://github.com/imstack/config/blob/main/emails.json)` file.
+
+For example, the `flower` feature is configured with `emails: 'client,team'`, this will result in 2 emails being sent with the following template names `client-flower` & `team-flower`. 
+
+Make sure those templates are defined in `email.json`, for each language, otherwise an error will be thrown.
+
+It's also possible to define a 4th dynamic key in `emails.json` that takes the form of `partner-{feature.key}-{partner.key}` to assign a specific template to a given partner. ex:
+```
+"partner-flower-gayosso":{
+  "es":{ "template_id":"fe96b7d1-d415-4d51-98bb-bb2001b79a81" }
+}
+```
+  
 
 Each Sendgrid template has access to an `order` object, giving context to the content of your mail.
 You can access the information by accessing the `ctx` key followed by your desired path
 ```
 Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
 ```
-
 
 ## Order Definition
 
@@ -95,7 +105,7 @@ Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
 Features settings can be applied at different levels, each level overriding it's parent level settings.  
 The level of granularity comes in the following order :
 
-- [zones.md](https://github.com/imstack/config/blob/main/zone.md)
+- [zones.md](https://github.com/imstack/config/blob/main/zones.md)
 - [partners.json](https://github.com/imstack/config/blob/main/partners.json)
 - [agencies.json](https://github.com/imstack/config/blob/main/agencies.json)
 - [slugs.json](https://github.com/imstack/config/blob/main/slugs.json)
