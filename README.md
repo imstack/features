@@ -49,7 +49,7 @@ It's also possible to define a 4th dynamic key in `emails.json` that takes the f
 Each Sendgrid template has access to an `order` object, giving context to the content of your mail.
 You can access the information by accessing the `ctx` key followed by your desired path
 ```
-Bonjour {{ctx.client.name}} ! votre reçu est le n°{{ctx.tx.ch_id}}
+Bonjour {{context.client.name}} ! votre reçu est le n°{{context.tx.ch_id}}
 ```
 
 ## Order Definition
