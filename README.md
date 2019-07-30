@@ -1,9 +1,9 @@
 # Features
 
-Features are the technicals building blocks of Inmemori revenue model. It's through them that we monetize the service. we can think of them as revenue streams.
+Features are the technical building blocks of InMemori revenue model. It's through them that we monetize the service. We can think of them as revenue streams.
 
-Every time a feature is used, a new `Order` object is created. 
-An `order` object contains the relevant informations associated with that interaction.
+Every time a feature is used, a new `order` object is created. 
+An `order` object contains the relevant information associated with that interaction.
 
 Each feature is assigned a unique key, and possible settings.
 
