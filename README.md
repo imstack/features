@@ -13,7 +13,7 @@ Each feature is assigned a unique key, and possible settings.
 [
     { 
         key: 'donation'
-      , emails: 'client,admin'
+      , emails: 'client,admin, team'
     }
   , { 
         key: 'flower' 
