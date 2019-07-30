@@ -32,7 +32,7 @@ Each feature is assigned a unique key, and possible settings.
 
 ## Emails & templates
 
-Each features sends predefined emails templates. You have to set those templates in the [emails.json](https://github.com/imstack/config/blob/main/emails.json) file.
+Each feature sends predefined emails templates. You have to set those templates in the [emails.json](https://github.com/imstack/config/blob/main/emails.json) file.
 
 For example, the `flower` feature is configured with `emails: 'client,team'`, this will result in 2 emails being sent with the following template names `client-flower` & `team-flower`. 
 
