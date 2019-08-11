@@ -7,6 +7,81 @@ An `order` object contains the relevant information associated with that interac
 
 Each feature is assigned a unique key, and possible settings.
 
+## Overview
+
+Features settings can be applied at different levels, each level overriding it's parent level settings.  
+The level of granularity comes in the following order :
+
+- [zones.md](https://github.com/imstack/config/blob/main/zones.md)
+- [partners.json](https://github.com/imstack/config/blob/main/partners.json)
+- [agencies.json](https://github.com/imstack/config/blob/main/agencies.json)
+- [slugs.json](https://github.com/imstack/config/blob/main/slugs.json)
+
+ex: partners.json
+
+```
+"interflora-fr": {
+  "features": {
+     "flower": { "catalog": "interflora-fr", "hours": -2, "caid":"acct_1DJiYIGMg492Tw0T", cut: 20 }
+  }
+}
+
+"scf-marseille": {
+  "features": {
+      "flower": "interflora-fr"
+    , "book": false
+  }
+}
+```
+
+After you've made modification to the settings, wait for github cache to clear (circa 5m), then synchronize the new data on our API in order to take effect. just click this link to sync : `https://api.inmemori.com/utils/sync`
+
+
+## Behaviour
+
+A feature `key` setting can be of 3 types : 
+
+  - boolean `false` // this disable the feature completely
+  - string `"interflora-paris"` // alias to some `partner` object settings
+  - object `{ "foo": "bar" }` // actual feature settings
+
+By default every feature `key` overrides it's previous/parent `key` settings. Ex:  
+
+```js
+// zone
+{ "flower": "gayosso-monterrey" } // string
+
+// partner
+{ "flower": { "catalog": "gayosso", "caid": "xxx", etc... } } // object
+
+// agency
+{ "flower": { "catalog": "gayosso-monterrey"} } // object
+
+// -----------------
+// => final settings
+{ "flower": { "catalog":"gayosso-monterrey" } }
+```
+
+Here, `agency.flower` object has overrided  `partner.flower` completely in final settings. 
+But instead of `overriding`, you could decide to `merge` previous settings. Just append a `$` sign in front of the feature `key`. Ex: 
+
+```js
+// zone
+{ "flower": "gayosso-monterrey" } // string
+
+// partner
+{ "flower": { "catalog": "gayosso", "caid": "xxx", etc... } } // object
+
+// agency
+{ "$flower": { "catalog": "gayosso-monterrey"} } // object, merge w parent
+
+// -----------------
+// => final settings
+{ "flower": { "catalog": "gayosso-monterrey", "caid": "xxx", etc... } } 
+```
+
+Notice the `agency.$flower` key. The `$` indicates to merge settings with parent settings, `partner.flower` in that case.
+
 ## Active Features
 
 ```
@@ -99,35 +174,6 @@ Bonjour {{context.client.name}} ! votre reçu est le n°{{context.tx.ch_id}}
 }
 ```
 
-
-# Settings Overview
-
-Features settings can be applied at different levels, each level overriding it's parent level settings.  
-The level of granularity comes in the following order :
-
-- [zones.md](https://github.com/imstack/config/blob/main/zones.md)
-- [partners.json](https://github.com/imstack/config/blob/main/partners.json)
-- [agencies.json](https://github.com/imstack/config/blob/main/agencies.json)
-- [slugs.json](https://github.com/imstack/config/blob/main/slugs.json)
-
-ex: partners.json
-```
-"interflora-fr": {
-  "features": {
-     "flower": { "catalog": "interflora-fr", "hours": -2, "caid":"acct_1DJiYIGMg492Tw0T", cut: 20 }
-  }
-}
-
-"scf-marseille": {
-  "features": {
-      "flower": "interflora-fr"
-    , "book": false
-  }
-}
-```
-
-After you've made modification to the settings, wait for github cache to clear (circa 5m), then synchronize the new data on our API in order to take effect. just click this link to sync : https://api.inmemori.com/utils/sync
-
 # Settings Specs
 
 - donation  
@@ -165,3 +211,5 @@ After you've made modification to the settings, wait for github cache to clear (
   | caid | *, connected account | `accct_1DJiYIGMg492Tv` |
   | catalog | *, json file | `imprimeur-paris` |
   | cut | % price cut | `20` |
+
+
