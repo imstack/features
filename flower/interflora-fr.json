@@ -7,7 +7,7 @@
     {
       "name":"Souvenir",
       "product":"6P04",
-      "price":99.90,
+      "price":113.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_01_kydrbr",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_02_mhzsqa",
@@ -22,7 +22,7 @@
     {
       "name":"Etoile",
       "product":"6B03",
-      "price":74.90,
+      "price":85.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Etoile_01_qtff3a",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Etoile_02_o1bcwj",
@@ -37,7 +37,7 @@
     {
       "name":"Sonate",
       "product":"6B01U",
-      "price":38.90,
+      "price":45.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Sonate_01_vadj0u",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Sonate_02_y3fd1u",
@@ -52,7 +52,7 @@
     {
       "name":"Rosae",
       "product":"6P05W",
-      "price":139.90,
+      "price":157.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Rosae_01_vudhts",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Rosae_02_soa7eh",
@@ -67,7 +67,7 @@
     {
       "name":"Symphonie",
       "product":"6G01",
-      "price":79.90,
+      "price":91.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_01_tgdn6l",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_02_ziwosf",
@@ -82,7 +82,7 @@
     {
       "name":"Pensée",
       "product":"6B02",
-      "price":59.80,
+      "price":68.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pensee_01_ef1mut",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_02_iq9l0o",
@@ -97,7 +97,7 @@
     {
       "name":"Cérémonie",
       "product":"6P03",
-      "price":99.90,
+      "price":113.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ceremonie_01_zjam5v",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_02_dvxovt",
@@ -112,7 +112,7 @@
     {
       "name":"Emotion",
       "product":"6CP01",
-      "price":39.90,
+      "price":46.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_01_ftrr4o",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_02_o5qbfu",
@@ -127,7 +127,7 @@
     {
       "name":"Aria",
       "product":"6P02",
-      "price":69.90,
+      "price":79.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_01_km6kx4",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_02_t6mmah",
@@ -142,7 +142,7 @@
     {
       "name":"Louange",
       "product":"6B06",
-      "price":111.80,
+      "price":126.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_01_sdcx0j",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_02_sgajaz",
@@ -157,7 +157,7 @@
     {
       "name":"Symphonie blanc",
       "product":"6G01W",
-      "price":79.90,
+      "price":91.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_Blanc_01_p0dbdu",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_Blanc_02_tmwnks",
@@ -172,7 +172,7 @@
     {
       "name":"Bosquet",
       "product":"6CP02",
-      "price":69.90,
+      "price":79.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Bosquet_01_kldxsr",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Bosquet_02_jbgnxz",
