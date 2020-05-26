@@ -1,1 +1,132 @@
+{
+  "shipping":{
+    "price":15.90,
+    "info":""
+  },
+  "catalog":[
+    {
+      "name":"Pensées",
+      "product":"Bouquet rond fushia et vert",
+      "price":45.00,
+      "img":[
+"https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Pense%CC%81es.jpg"
+      ],
+      "info":{
+        "fr":"Bouquet rond réalisé par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes fushias et vertes. Les fleurs peuvent varier selon la saison."
+      }
+    },
+    {
+      "name":"Jardin Fleuri",
+      "product":"Coupe de plante",
+      "price":50.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1590491570/Flowers/Alloin/Jardin_Fleuri.jpg"
+      ],
+      "info":{
+        "fr":"Composition réalisée par un artisan fleuriste sur la base d'un assortiment de plantes et de fleurs fraîches. Les fleurs et plantes peuvent varier selon la saison."
+      }
+    },
+    {
+      "name":"Pureté",
+      "product":"Bouquet rond blanches et vertes",
+      "price":50.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Purete%CC%81.jpg"
+      ],
+      "info":{
+        "fr":"Bouquet rond réalisé par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes blanches et vertes. Les fleurs peuvent varier selon la saison."
+
+      }
+    },
+    {
+      "name":"Soleil couchant",
+      "product":"Composition ronde couleurs chaudes",
+      "price":70.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Soleil_Couchant.jpg"
+      ],
+      "info":{
+        "fr":"Composition ronde réalisée par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des couleurs chaudes. Les fleurs peuvent varier selon la saison."
+
+      }
+    },
+    {
+      "name":"Paradis blanc",
+      "product":"Coussin rond blanc",
+      "price":100.00,
+      "img":[        "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Paradis_Blanc.jpg"
+      ],
+      "info":{
+        "fr":"Coussin rond réalisé par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes blanches et vertes. Les fleurs peuvent varier selon la saison."
+
+      }
+    },
+    {
+      "name":"Mémoire",
+      "product":"Corbeille",
+      "price":150.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Me%CC%81moire.jpg"
+      ],
+      "info":{
+        "fr":"Corbeille réalisée par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes orangées et blanches. Les fleurs peuvent varier selon la saison."
+
+      }
+    },
+    {
+      "name":"Présence",
+      "product":"Coussin rond orangé et blanc",
+      "price":180.00,
+      "img":[    "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Pre%CC%81sence.jpg"
+      ],
+      "info":{
+        "fr":"Coussin rond réalisé par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes orangées et blanches. Les fleurs peuvent varier selon la saison."
+      }
+    },
+    {
+      "name":"Arc-en-ciel",
+      "product":"Raquette couleurs chaudes",
+      "price":170.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1590491570/Flowers/Alloin/Arc-en-ciel.jpg"
+      ],
+      "info":{
+        "fr":"Raquette réalisée par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes chaudes. Les fleurs peuvent varier selon la saison."
+      }
+    },
+    {
+      "name":"Hymne",
+      "product":"Raquette jaune et blanche",
+      "price":220.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1590491570/Flowers/Alloin/Hymne.jpg"
+      ],
+      "info":{
+        "fr":"Raquette réalisée par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes orangées. Les fleurs peuvent varier selon la saison."
+      }
+    },
+    {
+      "name":"Harmonie",
+      "product":"Devant tombe mauve et blanc",
+      "price":180.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1590491570/Flowers/Alloin/Harmonie.jpg"
+      ],
+      "info":{
+        "fr":"Composition réalisée par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes mauves et blanches. Les fleurs peuvent varier selon la saison."
+
+      }
+    },
+    {
+      "name":"Envol",
+      "product":"Cœur rose et blanc",
+      "price":200.00,
+      "img":[        "https://res.cloudinary.com/inmemori/image/upload/v1590491570/Flowers/Alloin/Envol.jpg"
+      ],
+      "info":{
+        "fr":"Cœur réalisé par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes roses et blanches. Les fleurs peuvent varier selon la saison."
+      }
+    }
+  ]
+}
 
