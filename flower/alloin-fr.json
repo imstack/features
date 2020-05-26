@@ -54,7 +54,8 @@
       "name":"Paradis blanc",
       "product":"Coussin rond blanc",
       "price":100.00,
-      "img":[        "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Paradis_Blanc.jpg"
+      "img":[        
+        "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Paradis_Blanc.jpg"
       ],
       "info":{
         "fr":"Coussin rond réalisé par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes blanches et vertes. Les fleurs peuvent varier selon la saison."
@@ -77,7 +78,8 @@
       "name":"Présence",
       "product":"Coussin rond orangé et blanc",
       "price":180.00,
-      "img":[    "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Pre%CC%81sence.jpg"
+      "img":[    
+        "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Pre%CC%81sence.jpg"
       ],
       "info":{
         "fr":"Coussin rond réalisé par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes orangées et blanches. Les fleurs peuvent varier selon la saison."
