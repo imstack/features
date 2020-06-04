@@ -53,7 +53,7 @@
     {
       "name":"Paradis blanc",
       "product":"Coussin rond blanc",
-      "price":100.00,
+      "price":105.00,
       "img":[        
         "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Paradis_Blanc.jpg"
       ],
@@ -88,7 +88,7 @@
     {
       "name":"Arc-en-ciel",
       "product":"Raquette couleurs chaudes",
-      "price":170.00,
+      "price":180.00,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1590491570/Flowers/Alloin/Arc-en-ciel.jpg"
       ],
@@ -117,16 +117,6 @@
       "info":{
         "fr":"Composition réalisée par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes mauves et blanches. Les fleurs peuvent varier selon la saison."
 
-      }
-    },
-    {
-      "name":"Envol",
-      "product":"Cœur rose et blanc",
-      "price":200.00,
-      "img":[        "https://res.cloudinary.com/inmemori/image/upload/v1590491570/Flowers/Alloin/Envol.jpg"
-      ],
-      "info":{
-        "fr":"Cœur réalisé par un artisan fleuriste sur la base d'un assortiment de fleurs fraîches, dans des teintes roses et blanches. Les fleurs peuvent varier selon la saison."
       }
     }
   ]
