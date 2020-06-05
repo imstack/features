@@ -6,7 +6,7 @@
   "catalog":[
     {
       "name":"Pensées",
-      "product":"Bouquet rond fushia et vert",
+      "product":"Bouquet rond dans des teintes fushia et vert",
       "price":45.00,
       "img":[
 "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Pense%CC%81es.jpg"
@@ -28,7 +28,7 @@
     },
     {
       "name":"Pureté",
-      "product":"Bouquet rond blanches et vertes",
+      "product":"Bouquet rond dans des teintes blanches et vertes",
       "price":50.00,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Purete%CC%81.jpg"
@@ -40,7 +40,7 @@
     },
     {
       "name":"Soleil couchant",
-      "product":"Composition ronde couleurs chaudes",
+      "product":"Coussin rond de couleurs chaudes",
       "price":70.00,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Soleil_Couchant.jpg"
@@ -52,7 +52,7 @@
     },
     {
       "name":"Paradis blanc",
-      "product":"Coussin rond blanc",
+      "product":"Coussin rond blanc et vert",
       "price":105.00,
       "img":[        
         "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Paradis_Blanc.jpg"
@@ -64,7 +64,7 @@
     },
     {
       "name":"Mémoire",
-      "product":"Corbeille",
+      "product":"Corbeille de fleurs variées dans des teintes chaudes",
       "price":150.00,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Me%CC%81moire.jpg"
@@ -76,7 +76,7 @@
     },
     {
       "name":"Présence",
-      "product":"Coussin rond orangé et blanc",
+      "product":"Coussin rond orangé",
       "price":180.00,
       "img":[    
         "https://res.cloudinary.com/inmemori/image/upload/v1590491571/Flowers/Alloin/Pre%CC%81sence.jpg"
