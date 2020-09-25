@@ -23,6 +23,7 @@
       "name":"Etoile",
       "product":"6B03",
       "price":85.90,
+      "size":"XL",
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Etoile_01_qtff3a",
         "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Etoile_02_o1bcwj",
