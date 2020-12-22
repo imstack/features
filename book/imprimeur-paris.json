@@ -28,20 +28,20 @@
     {
       "product":"B1",
       "name":{
-        "fr":"Le Livre d'Or",
-        "en":"My InMemori book ",
+        "fr":"Le Livre d'Or inmemori revient bientôt",
+        "en":"My inmemori book will be back soon",
         "es":"Mi libro InMemori"
       },
       "desc":{
-        "fr":"Caractéristiques techniques : \n* Format accordéon : 150 x 210 mm,\n* Papier de qualité : 150 g / m2,\n* Imprimé et façonné en France.\n\nPlus d'infos sur https://fr.inmemori.com/livre-inmemori\n\n⚠️ Seuls les messages publiés sur l'espace au moment de votre commande seront imprimés dans le livre.",
+        "fr":"Caractéristiques techniques : \n* Format: 240 x 160 mm,\n* De 54 à 376 pages en 1 ou 2 tomes / m2,\n* Imprimé et façonné en France.\n\nPlus d'infos sur https://fr.inmemori.com/livre-inmemori\n\n⚠️ Seuls les messages publiés sur l'espace au moment de votre commande seront imprimés dans le livre.",
         "en":"Accordion-style\nHigh-quality ivory-colored paper\nTitle in a bronze shade\nCover photo identical to the InMemori page’s main photo\nMade by an artisanal printer\n\nThe InMemori book is a beautiful keepsake of all the messages and photos shared by close ones.\nThe layout is formatted by InMemori team, so you don’t have to spend hours doing it yourself.",
         "es":"Pliegue de acordeón\nPapel de color marfil de alta calidad\nTítulo en color bronce\nFoto de portada idéntica a la foto principal elegida para la página\nDiseñado por un artesano\n\nEl libro InMemori es un hermoso objeto para conservar las bellas palabras y fotos escritas.\nSu diseño es realizado por los equipos de InMemori, lo que evita largas horas de trabajo."
       },
       "imgs":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/InMemori-book-3_ulc04r",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/InMemori-book-2_rn9m8j",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/InMemori-book-1_yrqc9k",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/InMemori-book-4_awbkvl"
+        "https://res.cloudinary.com/inmemori/image/upload/v1608637295/Book/Mockup_1-book.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1608637356/Book/Mockup_2-book.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1608637294/Book/Mockup_3-book.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1608637640/Book/Mockup_4-book.jpg"
       ]
     }
   ]
