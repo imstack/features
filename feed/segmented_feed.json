@@ -2,14 +2,17 @@
   "0,13,m": [
       { "t": "Les cousins", "i": "dessin-0-13-all" }
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "🙏", "i" : "candle-26-130-m"}
+    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t": "Laura, maman de l'école"}
     , { "t": "Sandrine et Laurent"}
     , { "t": "Maman ✨"}
     , { "t": "Julie et Thomas"}
     , { "t": "Famille Dubois"}
-    , { "t" : "🙏", "i" : "candle-0-13-all"}
+    , { "t" : "Avec toute notre amitié", "i" : "candle-0-13-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
 
 
 
@@ -17,7 +20,7 @@
   ],
   "0,13,f": [
       { "t": "Les cousins", "i": "dessin-0-13-all" }
-    , { "t" : "🙏", "i" : "bougie-all-f"}
+    , { "t" : "Nos pensées vous accompagnent", "i" : "bougie-all-f"}
     , { "t": "Laura, maman de l'école"}
     , { "t": "Sandrine et Laurent"}
     , { "t": "Maman ✨"}
@@ -25,20 +28,25 @@
     , { "t": "Famille Dubois"}
     , { "t" : "🙏", "i" : "candle-0-13-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
 
     ],
   "0,13": [
       { "t": "Les cousins", "i": "dessin-0-13-all" }
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "🙏", "i" : "candle-26-130-m"}
+    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t": "Laura, maman de l'école"}
     , { "t": "Sandrine et Laurent"}
     , { "t": "Maman ✨"}
     , { "t": "Julie et Thomas"}
     , { "t": "Famille Dubois"}
-    , { "t" : "🙏", "i" : "candle-0-13-all"}
+    , { "t" : "Avec toute notre amitié", "i" : "candle-0-13-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
-
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
 
   ],
   "14,25,m": [
@@ -55,8 +63,10 @@
     , { "t": "Papa"}
     , { "t": "Les copains du club"}
     , { "t" : "Amis pour toujours", "i" : "shadow-14-25-all"}
-    , { "t" : "🕊", "i" : "cloud-All"}
-
+    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
 
   ],
   "14,25,f": [
@@ -73,7 +83,10 @@
     , { "t": "Papa"}
     , { "t": "Les copains du club"}
     , { "t" : "Amis pour toujours", "i" : "shadow-14-25-all"}
-    , { "t" : "🕊", "i" : "cloud-All"}
+    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
 
   ],
 
@@ -91,14 +104,16 @@
     , { "t": "Papa"}
     , { "t": "Les copains du club"}
     , { "t" : "Amis pour toujours", "i" : "shadow-14-25-all"}
-    , { "t" : "🕊", "i" : "cloud-All"}
+    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
 
 
   ],
   "26,39,m": [
      { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "🙏", "i" : "candle-26-130-m"}
+    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "Tes amis d'enfance✨"}
@@ -112,7 +127,6 @@
     , { "t": "Un collègue à qui tu vas manquer"}
     , { "t": "Mon frère"}
     , { "t": "Pour mon tonton"}
-
     , { "t" : "Ces étés vont me manquer", "i" : "tongs-26-39-all"}
     , { "t" : "Souvenir de ce bel été ensemble", "i" : "sunset-ble-25-130-all"}
     , { "t" : "La bande des 3", "i" : "shadow-26-39-all"}
@@ -120,8 +134,11 @@
     , { "t" : "Je n'oublierai jamais ce moment", "i" : "apero-26-39-m"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "Souvenir d'un bon dîner tous ensemble", "i" : "beers-26-39-m"}
-    , { "t" : "🕊", "i" : "cloud-All"}
+    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
 
 
 
@@ -149,9 +166,11 @@
     , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
     , { "t" : "Je n'oublierai jamais ce moment", "i" : "apero-26-39-m"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "🕊", "i" : "cloud-All"}
+    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "❤️", "i" : "pissenlit-40-130"}
-
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
 
 
 
@@ -160,7 +179,7 @@
   "26,39": [
      { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "🙏", "i" : "candle-26-130-m"}
+    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "Tes amis d'enfance✨"}
@@ -180,16 +199,18 @@
     , { "t" : "Je n'oublierai jamais ce moment", "i" : "apero-26-39-m"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "Souvenir d'un bon dîner tous ensemble", "i" : "beers-26-39-m"}
-    , { "t" : "🕊", "i" : "cloud-All"}
+    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "❤️", "i" : "pissenlit-40-130"}
-
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
 
 
   ],
   "40,69,m": [
       { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "🙏", "i" : "candle-26-130-m"}
+    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "A mon papa ✨"}
@@ -200,7 +221,7 @@
     , { "t": "Isabelle, une voisine"}
     , { "t": "Mon oncle"}
     , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Laurent"}
+    , { "t": "Sandrine et Eric"}
     , { "t": "Maman ✨"}
     , { "t": "Julie et Thomas"}
     , { "t": "Corinne et Bertrand"}
@@ -208,15 +229,19 @@
     , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
     , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "🕊", "i" : "cloud-All"}
+    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Nous perdons un collègue et un ami très cher."}
 
 
   ],
   "40,69,f": [
       { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "🙏", "i" : "bougie-all-f"}
+    , { "t" : "Nos pensées vous accompagnent", "i" : "bougie-all-f"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "A ma maman ✨"}
@@ -227,7 +252,7 @@
     , { "t": "Isabelle, une voisine"}
     , { "t": "Ma tante"}
     , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Laurent"}
+    , { "t": "Sandrine et Eric"}
     , { "t": "Maman ✨"}
     , { "t": "Julie et Thomas"}
     , { "t": "Corinne et Bertrand"}
@@ -237,13 +262,19 @@
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Nous perdons une collègue et une amie très chère."}
+
+
 
 
   ],
   "40,69": [
       { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "🙏", "i" : "candle-26-130-m"}
+    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "Tes enfants ✨"}
@@ -254,7 +285,7 @@
     , { "t": "Isabelle, une voisine"}
     , { "t": "Tes neveux"}
     , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Laurent"}
+    , { "t": "Sandrine et Eric"}
     , { "t": "Julie et Thomas"}
     , { "t": "Corinne et Bertrand"}
     , { "t" : "Soirée mémorable à tes côtés", "i" : "drink-40-69-all"}
@@ -263,6 +294,11 @@
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t": "Sincères condoléances"}
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Nous perdons un collègue et un ami très cher."}
 
 
   ],
@@ -298,6 +334,14 @@
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
     , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t": "Famille Darricourt"}
+    , { "t": "Les Mercier"}
+    , { "t": "Josiane et Maurice"}
+    , { "t": "Sincères condoléances"}
+    , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
+
 
 
 
@@ -339,12 +383,17 @@
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
     , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t": "Famille Darricourt"}
+    , { "t": "Les Mercier"}
+    , { "t": "Josiane et Maurice"}
+    , { "t": "De tout cœur avec vous"}
+
 
       ],
 
       "70,130": [
       { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
-    , { "t" : "🙏", "i" : "candle-70-130-m"}
+    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
@@ -369,6 +418,11 @@
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
     , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t": "Famille Darricourt"}
+    , { "t": "Les Mercier"}
+    , { "t": "Josiane et Maurice"}
+    , { "t": "De tout cœur avec vous"}
+
 
 
 
