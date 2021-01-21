@@ -425,7 +425,7 @@
   ],
   
   "default": [
-    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
+     { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "", "i" : "cloud-All"}
