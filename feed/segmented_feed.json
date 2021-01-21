@@ -135,7 +135,7 @@
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "Souvenir d'un bon dîner tous ensemble", "i" : "beers-26-39-m"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
@@ -167,7 +167,7 @@
     , { "t" : "Je n'oublierai jamais ce moment", "i" : "apero-26-39-m"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
@@ -200,7 +200,7 @@
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "Souvenir d'un bon dîner tous ensemble", "i" : "beers-26-39-m"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
@@ -230,7 +230,7 @@
     , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
@@ -261,7 +261,7 @@
     , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
@@ -293,7 +293,7 @@
     , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "Sincères condoléances"}
     , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
@@ -333,7 +333,7 @@
     , { "t" : "Papa ✨", "i" : "vintage-family-70-130-m"}
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "Famille Darricourt"}
     , { "t": "Les Mercier"}
     , { "t": "Josiane et Maurice"}
@@ -382,7 +382,7 @@
     , { "t" : "Jeunesse", "i" : "vintage-woman-70-130-f"}
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "Famille Darricourt"}
     , { "t": "Les Mercier"}
     , { "t": "Josiane et Maurice"}
@@ -417,7 +417,7 @@
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "Famille Darricourt"}
     , { "t": "Les Mercier"}
     , { "t": "Josiane et Maurice"}
@@ -425,35 +425,14 @@
   ],
   
   "default": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes enfants qui t'aiment 🕊"}
-    , { "t" : "Souvenirs de Rome", "i" : "voyage-italie-40-130-all"}
-    , { "t": "Nicole et Bernard"}
-    , { "t": "Emilie, aide-soignante"}
-    , { "t": "Vacances été 2001"}
-    , { "t": "Ton plus vieil ami"}
-    , { "t": "Ta nièce adorée"}
-    , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Laurent"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Corinne et Bertrand"}
-    , { "t": "Sylvie, ta cousine chérie"}
-    , { "t" : "Enfance", "i" : "vintage-kid-70-130-m"}
-    , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
-    , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
-    , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
-    , { "t" : "Souvenir de cet hiver", "i" : "souvenir-winter-70-130-all"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
-    , { "t" : "❤️", "i" : "pissenlit-40-130"}
-    , { "t": "Famille Darricourt"}
-    , { "t": "Les Mercier"}
-    , { "t": "Josiane et Maurice"}
+    , { "t" : "", "i" : "cloud-All"}
+    , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "De tout cœur avec vous"}
+    , { "t": "Recevez notre profond soutien"}
+    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "🕊"}
   ]
     }
