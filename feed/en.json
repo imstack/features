@@ -1,346 +1,346 @@
 { 
   "0,13,m": [
-      { "t": "Les cousins", "i": "dessin-0-13-all" }
+      { "t": "The cousins", "i": "dessin-0-13-all" }
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
-    , { "t": "Laura, maman de l'école"}
-    , { "t": "Sandrine et Laurent"}
-    , { "t": "Maman ✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Famille Dubois"}
-    , { "t" : "Avec toute notre amitié", "i" : "candle-0-13-all"}
+    , { "t" : "Sending healing prayers and comforting hugs", "i" : "candle-26-130-m"}
+    , { "t": "Laura, mum from our kids'school"}
+    , { "t": "Jennifer and Michael"}
+    , { "t": "Mom ✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "The Maser Family"}
+    , { "t" : "With our deepest sympathy", "i" : "candle-0-13-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
 
 
 
   ],
   "0,13,f": [
-      { "t": "Les cousins", "i": "dessin-0-13-all" }
-    , { "t" : "Nos pensées vous accompagnent", "i" : "bougie-all-f"}
-    , { "t": "Laura, maman de l'école"}
-    , { "t": "Sandrine et Laurent"}
-    , { "t": "Maman ✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Famille Dubois"}
+      { "t": "The cousins", "i": "dessin-0-13-all" }
+    , { "t" : "Sending healing prayers and comforting hugs", "i" : "bougie-all-f"}
+    , { "t": "Laura, mum from our kids'school"}
+    , { "t": "Jennifer and Michael"}
+    , { "t": "Mom ✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "The Maser Family"}
     , { "t" : "🙏", "i" : "candle-0-13-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
     ],
   "0,13": [
-      { "t": "Les cousins", "i": "dessin-0-13-all" }
+      { "t": "The cousins", "i": "dessin-0-13-all" }
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
-    , { "t": "Laura, maman de l'école"}
-    , { "t": "Sandrine et Laurent"}
-    , { "t": "Maman ✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Famille Dubois"}
-    , { "t" : "Avec toute notre amitié", "i" : "candle-0-13-all"}
+    , { "t" : "Sending healing prayers and comforting hugs", "i" : "candle-26-130-m"}
+    , { "t": "Laura, mum from our kids'school"}
+    , { "t": "Jennifer and Michael"}
+    , { "t": "Mom ✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "The Maser Family"}
+    , { "t" : "With our deepest sympathy", "i" : "candle-0-13-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
   ],
   "14,25,m": [
      { "t" : "🙏", "i" : "candle-26-130-m"}
-    , { "t": "Souvenirs d'été", "i":"vacances-hossegor-25-130-all"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes amis d'enfance ✨"}
-    , { "t": "Les cousins"}
-    , { "t": "Pour mon meilleur pote"}
-    , { "t": "La bande des 3"}
-    , { "t": "Ton tonton qui t'aime  😘"}
-    , { "t": "Les anciens de la classe 5ème"}
-    , { "t": "Papa"}
-    , { "t": "Les copains du club"}
-    , { "t" : "Amis pour toujours", "i" : "shadow-14-25-all"}
-    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Summer memories", "i":"vacances-hossegor-25-130-all"}
+    , { "t": "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your childhood friends ✨"}
+    , { "t": "The cousins"}
+    , { "t": "For my buddy"}
+    , { "t": "The big 3"}
+    , { "t": "Your uncle who loves you  😘"}
+    , { "t": "The alumni of 7th grade"}
+    , { "t": "Dad"}
+    , { "t": "Your teammates"}
+    , { "t" : "Friends forever", "i" : "shadow-14-25-all"}
+    , { "t" : "Deepest condolences", "i" : "cloud-All"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
   ],
   "14,25,f": [
      { "t" : "🙏", "i" : "bougie-all-f"}
-    , { "t": "Souvenirs d'été", "i":"vacances-hossegor-25-130-all"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes amis d'enfance ✨"}
-    , { "t": "Les cousins"}
-    , { "t": "Pour ma meilleure copine"}
-    , { "t": "La bande des 3"}
-    , { "t": "Ton tonton qui t'aime 😘"}
-    , { "t": "Les anciens de la classe 5ème"}
-    , { "t": "Papa"}
-    , { "t": "Les copains du club"}
-    , { "t" : "Amis pour toujours", "i" : "shadow-14-25-all"}
-    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Summer memories", "i":"vacances-hossegor-25-130-all"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your childhood friends ✨"}
+    , { "t": "The cousins"}
+    , { "t": "For my bestie"}
+    , { "t": "The big 3"}
+    , { "t": "Your uncle who loves you 😘"}
+    , { "t": "The alumni of 7th grade"}
+    , { "t": "Dad"}
+    , { "t": "Your teammates"}
+    , { "t" : "Friends forever", "i" : "shadow-14-25-all"}
+    , { "t" : "Deepest condolences", "i" : "cloud-All"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
   ],
 
   "14,25": [
      { "t" : "🙏", "i" : "candle-26-130-m"}
-    , { "t": "Souvenirs d'été", "i":"vacances-hossegor-25-130-all"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes amis d'enfance ✨"}
-    , { "t": "Les cousins"}
-    , { "t": "Ton meilleur pote"}
-    , { "t": "La bande des 3"}
-    , { "t": "Ton tonton qui t'aime  😘"}
-    , { "t": "Les anciens de la classe 5ème"}
-    , { "t": "Papa"}
-    , { "t": "Les copains du club"}
-    , { "t" : "Amis pour toujours", "i" : "shadow-14-25-all"}
-    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Summer memories", "i":"vacances-hossegor-25-130-all"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your childhood friends ✨"}
+    , { "t": "The cousins"}
+    , { "t": "Your best friend"}
+    , { "t": "The big 3"}
+    , { "t": "Your uncle who loves you  😘"}
+    , { "t": "The alumni of 7th grade"}
+    , { "t": "Dad"}
+    , { "t": "Your teammates"}
+    , { "t" : "Friends forever", "i" : "shadow-14-25-all"}
+    , { "t" : "Deepest condolences", "i" : "cloud-All"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
 
   ],
   "26,39,m": [
-     { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
+     { "t" : "Summer 2008", "i" : "lac-montagne-25-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes amis d'enfance✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Laura, maman de l'école"}
-    , { "t": "Les cousins"}
-    , { "t": "Maxime"}
-    , { "t": "Papa"}
-    , { "t": "Ton oncle Fred"}
-    , { "t": "RIP le plus beau 🕊"}
-    , { "t": "Un collègue à qui tu vas manquer"}
-    , { "t": "Mon frère"}
-    , { "t": "Pour mon tonton"}
-    , { "t" : "Ces étés vont me manquer", "i" : "tongs-26-39-all"}
-    , { "t" : "Souvenir de ce bel été ensemble", "i" : "sunset-ble-25-130-all"}
-    , { "t" : "La bande des 3", "i" : "shadow-26-39-all"}
-    , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
-    , { "t" : "Je n'oublierai jamais ce moment", "i" : "apero-26-39-m"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "Souvenir d'un bon dîner tous ensemble", "i" : "beers-26-39-m"}
-    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
+    , { "t" : "Sending healing prayers and comforting hugs", "i" : "candle-26-130-m"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your childhood friends✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "Laura, mum from our kids'school"}
+    , { "t": "The cousins"}
+    , { "t": "Joshua"}
+    , { "t": "Dad"}
+    , { "t": "Your uncle Fred"}
+    , { "t": "RIP handsome 🕊"}
+    , { "t": "A colleague that will miss you"}
+    , { "t": "My brother"}
+    , { "t": "For my uncle"}
+    , { "t" : "I am gonna miss these summers", "i" : "tongs-26-39-all"}
+    , { "t" : "Memories of a beautiful summer together", "i" : "sunset-ble-25-130-all"}
+    , { "t" : "The big 3", "i" : "shadow-26-39-all"}
+    , { "t" : "An unforgettable road trip with you", "i" : "canyons-usa-40-130-all"}
+    , { "t" : "I'll never forget this moment", "i" : "apero-26-39-m"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
+    , { "t" : "Memories of a great dinner all together", "i" : "beers-26-39-m"}
+    , { "t" : "Deepest condolences", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
 
 
   ],
   "26,39,f": [
-    { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
+    { "t" : "Summer 2008", "i" : "lac-montagne-25-130-all"}
     , { "t" : "🙏", "i" : "bougie-all-f"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes amis d'enfance✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Laura, maman de l'école"}
-    , { "t": "Les cousins"}
-    , { "t": "Maxime"}
-    , { "t": "Papa"}
-    , { "t": "Ton oncle Fred"}
-    , { "t": "RIP la plus belle 🕊"}
-    , { "t": "Un collègue à qui tu vas manquer"}
-    , { "t" :"a soeur"}
-    , { "t": "Pour ma tata"}
-    , { "t": "Emilie et Nicolas"}
-    , { "t" : "Ces étés vont me manquer", "i" : "tongs-26-39-all"}
-    , { "t" : "Souvenir de ce bel été ensemble", "i" : "sunset-ble-25-130-all"}
-    , { "t" : "La bande des 3", "i" : "shadow-26-39-all"}
-    , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
-    , { "t" : "Je n'oublierai jamais ce moment", "i" : "apero-26-39-m"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your childhood friends✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "Laura, mum from our kids'school"}
+    , { "t": "The cousins"}
+    , { "t": "Joshua"}
+    , { "t": "Dad"}
+    , { "t": "Your uncle Fred"}
+    , { "t": "RIP beautiful 🕊"}
+    , { "t": "A colleague that will miss you"}
+    , { "t" :"Your sister"}
+    , { "t": "For my auntie"}
+    , { "t": "Ashley and Kevin"}
+    , { "t" : "I am gonna miss these summers", "i" : "tongs-26-39-all"}
+    , { "t" : "Memories of a beautiful summer together", "i" : "sunset-ble-25-130-all"}
+    , { "t" : "The big 3", "i" : "shadow-26-39-all"}
+    , { "t" : "An unforgettable road trip with you", "i" : "canyons-usa-40-130-all"}
+    , { "t" : "I'll never forget this moment", "i" : "apero-26-39-m"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
+    , { "t" : "Deepest condolences", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
 
 
   ],
 
   "26,39": [
-     { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
+     { "t" : "Summer 2008", "i" : "lac-montagne-25-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes amis d'enfance✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Laura, maman de l'école"}
-    , { "t": "Les cousins"}
-    , { "t": "Maxime"}
-    , { "t": "Papa"}
-    , { "t": "Ton oncle Fred"}
-    , { "t": "Un collègue à qui tu vas manquer"}
-    , { "t": "Ton frère qui t'aime"}
-    , { "t": "Les neveux"}
-    , { "t" : "Ces étés vont me manquer", "i" : "tongs-26-39-all"}
-    , { "t" : "Souvenir de ce bel été ensemble", "i" : "sunset-ble-25-130-all"}
-    , { "t" : "La bande des 3", "i" : "shadow-26-39-all"}
-    , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
-    , { "t" : "Je n'oublierai jamais ce moment", "i" : "apero-26-39-m"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "Souvenir d'un bon dîner tous ensemble", "i" : "beers-26-39-m"}
-    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
+    , { "t" : "Sending healing prayers and comforting hugs", "i" : "candle-26-130-m"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your childhood friends✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "Laura, mum from our kids'school"}
+    , { "t": "The cousins"}
+    , { "t": "Joshua"}
+    , { "t": "Dad"}
+    , { "t": "Your uncle Fred"}
+    , { "t": "A colleague that will miss you"}
+    , { "t": "Your brother that loves you"}
+    , { "t": "The nephews"}
+    , { "t" : "I am gonna miss these summers", "i" : "tongs-26-39-all"}
+    , { "t" : "Memories of a beautiful summer together", "i" : "sunset-ble-25-130-all"}
+    , { "t" : "The big 3", "i" : "shadow-26-39-all"}
+    , { "t" : "An unforgettable road trip with you", "i" : "canyons-usa-40-130-all"}
+    , { "t" : "I'll never forget this moment", "i" : "apero-26-39-m"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
+    , { "t" : "Memories of a great dinner all together", "i" : "beers-26-39-m"}
+    , { "t" : "Deepest condolences", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
 
   ],
   "40,69,m": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "Summer memories", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "A mon papa ✨"}
-    , { "t": "Tes collègues à qui tu vas manquer"}
-    , { "t": "Souvenir de vacances", "i": "vacances-hossegor-25-130-all"}
-    , { "t": "Nathalie et Laurent"}
-    , { "t": "Les cousins"}
-    , { "t": "Isabelle, une voisine"}
-    , { "t": "Mon oncle"}
-    , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Eric"}
-    , { "t": "Maman ✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Corinne et Bertrand"}
-    , { "t" : "Soirée mémorable à tes côtés", "i" : "drink-40-69-all"}
-    , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
-    , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "Sincères condoléances", "i" : "cloud-All"}
+    , { "t" : "Sending healing prayers and comforting hugs", "i" : "candle-26-130-m"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "For my Dad ✨"}
+    , { "t": "Your colleagues that will miss you"}
+    , { "t": "Holidays memories", "i": "vacances-hossegor-25-130-all"}
+    , { "t": "Lisa and Bob"}
+    , { "t": "The cousins"}
+    , { "t": "Karen, a neighbor"}
+    , { "t": "My uncle"}
+    , { "t": "Ashley and Kevin"}
+    , { "t": "Kimberly and David"}
+    , { "t": "Mom ✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "Donna and James"}
+    , { "t" : "An unforgettable evening by your side", "i" : "drink-40-69-all"}
+    , { "t" : "Memories of this hike we took together", "i" : "chappelle-cipres-40-130-all"}
+    , { "t" : "An unforgettable road trip with you", "i" : "canyons-usa-40-130-all"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
+    , { "t" : "Deepest condolences", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
-    , { "t": "Nous perdons un collègue et un ami très cher."}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
+    , { "t": "We lost a colleague and a dear friend."}
 
 
   ],
   "40,69,f": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "Summer memories", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "Nos pensées vous accompagnent", "i" : "bougie-all-f"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "A ma maman ✨"}
-    , { "t": "Tes collègues à qui tu vas manquer"}
-    , { "t": "Souvenir de vacances", "i": "vacances-hossegor-25-130-all"}
-    , { "t": "Nathalie et Laurent"}
-    , { "t": "Les cousins"}
-    , { "t": "Isabelle, une voisine"}
+    , { "t" : "Sending healing prayers and comforting hugs", "i" : "bougie-all-f"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "For my Mom ✨"}
+    , { "t": "Your colleagues that will miss you"}
+    , { "t": "Holidays memories", "i": "vacances-hossegor-25-130-all"}
+    , { "t": "Lisa and Bob"}
+    , { "t": "The cousins"}
+    , { "t": "Karen, a neighbor"}
     , { "t": "Ma tante"}
-    , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Eric"}
-    , { "t": "Maman ✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Corinne et Bertrand"}
-    , { "t" : "Soirée mémorable à tes côtés", "i" : "drink-40-69-all"}
-    , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
-    , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
+    , { "t": "Ashley and Kevin"}
+    , { "t": "Kimberly and David"}
+    , { "t": "Mom ✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "Donna and James"}
+    , { "t" : "An unforgettable evening by your side", "i" : "drink-40-69-all"}
+    , { "t" : "Memories of this hike we took together", "i" : "chappelle-cipres-40-130-all"}
+    , { "t" : "An unforgettable road trip with you", "i" : "canyons-usa-40-130-all"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
-    , { "t": "Nous perdons une collègue et une amie très chère."}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
+    , { "t": "We lost a colleague and a dear friend."}
 
 
 
 
   ],
   "40,69": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "Summer memories", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
-    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes enfants ✨"}
-    , { "t": "Tes collègues à qui tu vas manquer"}
-    , { "t": "Souvenir de vacances", "i": "vacances-hossegor-25-130-all"}
-    , { "t": "Nathalie et Laurent"}
-    , { "t": "Les cousins"}
-    , { "t": "Isabelle, une voisine"}
-    , { "t": "Tes neveux"}
-    , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Eric"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Corinne et Bertrand"}
-    , { "t" : "Soirée mémorable à tes côtés", "i" : "drink-40-69-all"}
-    , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
-    , { "t" : "Voyage inoubliable avec toi", "i" : "canyons-usa-40-130-all"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
+    , { "t" : "Sending healing prayers and comforting hugs", "i" : "candle-26-130-m"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your kids ✨"}
+    , { "t": "Your colleagues that will miss you"}
+    , { "t": "Holidays memories", "i": "vacances-hossegor-25-130-all"}
+    , { "t": "Lisa and Bob"}
+    , { "t": "The cousins"}
+    , { "t": "Karen, a neighbor"}
+    , { "t": "Your nephews"}
+    , { "t": "Ashley and Kevin"}
+    , { "t": "Kimberly and David"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "Donna and James"}
+    , { "t" : "An unforgettable evening by your side", "i" : "drink-40-69-all"}
+    , { "t" : "Memories of this hike we took together", "i" : "chappelle-cipres-40-130-all"}
+    , { "t" : "An unforgettable road trip with you", "i" : "canyons-usa-40-130-all"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "Sincères condoléances"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
-    , { "t": "Nous perdons un collègue et un ami très cher."}
+    , { "t": "Deepest condolences"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
+    , { "t": "We lost a colleague and a dear friend."}
 
 
   ],
   "70,130,m": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "Summer memories", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes enfants qui t'aiment 🕊"}
-    , { "t" : "Souvenirs de Rome", "i" : "voyage-italie-40-130-all"}
-    , { "t": "Pour le meilleur des grands-pères ✨"}
-    , { "t": "Nicole et Bernard"}
-    , { "t": "Emilie, aide-soignante"}
-    , { "t": "Vacances été 2001"}
-    , { "t": "Mon plus vieil ami"}
-    , { "t": "Ta nièce adorée"}
-    , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Laurent"}
-    , { "t": "Maman ✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Corinne et Bertrand"}
-    , { "t": "Sylvie, ta cousine chérie"}
-    , { "t" : "Enfance", "i" : "vintage-kid-70-130-m"}
-    , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
-    , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
-    , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
-    , { "t" : "Souvenir de cet hiver", "i" : "souvenir-winter-70-130-all"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "Enfance", "i" : "vintage-boy-40-69-m"}
-    , { "t" : "Elégance en toutes circonstances", "i" : "vintage-man-70-130-m"}
-    , { "t" : "Papa ✨", "i" : "vintage-family-70-130-m"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your kids that love you 🕊"}
+    , { "t" : "Memories of our trip to Rome", "i" : "voyage-italie-40-130-all"}
+    , { "t": "For the best grandpa ever ✨"}
+    , { "t": "Carrie and Joe"}
+    , { "t": "Emily, caregiver"}
+    , { "t": "Summer 2001"}
+    , { "t": "My oldest and dearest friend"}
+    , { "t": "Your loving niece"}
+    , { "t": "Ashley and Kevin"}
+    , { "t": "Jennifer and Michael"}
+    , { "t": "Mom ✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "Donna and James"}
+    , { "t": "Sylvia, your loving cousin"}
+    , { "t" : "Childhood", "i" : "vintage-kid-70-130-m"}
+    , { "t" : "Memories of a beautiful summer in Italy", "i" : "boats-holidays-40-130-all"}
+    , { "t" : "Memories of this hike we took together", "i" : "chappelle-cipres-40-130-all"}
+    , { "t" : "Together forever", "i" : "vintage-couple-70-130-all"}
+    , { "t" : "Memories of last winter", "i" : "souvenir-winter-70-130-all"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
+    , { "t" : "Childhood", "i" : "vintage-boy-40-69-m"}
+    , { "t" : "Elegance in all circumstances", "i" : "vintage-man-70-130-m"}
+    , { "t" : "Dad ✨", "i" : "vintage-family-70-130-m"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
+    , { "t" : "Our corner of paradise", "i" : "eglise-neige-70-130-all"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "Famille Darricourt"}
-    , { "t": "Les Mercier"}
-    , { "t": "Josiane et Maurice"}
-    , { "t": "Sincères condoléances"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Evans Family"}
+    , { "t": "The Pearsons"}
+    , { "t": "Rebecca and Miguel"}
+    , { "t": "Deepest condolences"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
 
 
 
@@ -349,90 +349,90 @@
 
   ],
   "70,130,f": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "Summer memories", "i":"vignes-eglise-lac-40-130-all"}
     , { "i": "illu avec une bougie" }
     , { "t" : "🙏", "i" : "bougie-all-f"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes enfants qui t'aiment 🕊"}
-    , { "t" : "Souvenirs de Rome", "i" : "voyage-italie-40-130-all"}
-    , { "t": "Pour le meilleur des grands-pères ✨"}
-    , { "t": "Nicole et Bernard"}
-    , { "t": "Emilie, aide-soignante"}
-    , { "t": "Vacances été 2001"}
-    , { "t" : "Mon plus vieil ami"}
-    , { "t": "Ta nièce adorée"}
-    , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Laurent"}
-    , { "t": "Maman ✨"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Corinne et Bertrand"}
-    , { "t": "Sylvie, ta cousine chérie"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your kids qui t'aiment 🕊"}
+    , { "t" : "Memories of our trip to Rome", "i" : "voyage-italie-40-130-all"}
+    , { "t": "For the best grandpa ever ✨"}
+    , { "t": "Carrie and Joe"}
+    , { "t": "Emily, caregiver"}
+    , { "t": "Summer 2001"}
+    , { "t" : "My oldest and dearest friend"}
+    , { "t": "Your loving niece"}
+    , { "t": "Ashley and Kevin"}
+    , { "t": "Jennifer and Michael"}
+    , { "t": "Mom ✨"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "Donna and James"}
+    , { "t": "Sylvia, your loving cousin"}
     , { "t": "Annie"}
-    , { "t" : "Je pense à toi", "i" : "flower-40-130-f"}
-    , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
-    , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
-    , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
-    , { "t" : "Souvenir de cet hiver", "i" : "souvenir-winter-70-130-all"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "Elégance en toutes circonstances", "i" : "vintage-skier-70-130-f"}
-    , { "t" : "Eté 75", "i" : "vintage-lady-beach-70-130-f"}
-    , { "t" : "Mamie ✨", "i" : "grandma-70-130-f"}
-    , { "t" : "Maman ✨", "i" : "vintage-mother-70-130-f"}
-    , { "t" : "Jeunesse", "i" : "vintage-woman-70-130-f"}
+    , { "t" : "Thinking of you", "i" : "flower-40-130-f"}
+    , { "t" : "Memories of a beautiful summer in Italy", "i" : "boats-holidays-40-130-all"}
+    , { "t" : "Memories of this hike we took together", "i" : "chappelle-cipres-40-130-all"}
+    , { "t" : "Together forever", "i" : "vintage-couple-70-130-all"}
+    , { "t" : "Memories of last winter", "i" : "souvenir-winter-70-130-all"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
+    , { "t" : "Elegance in all circumstances", "i" : "vintage-skier-70-130-f"}
+    , { "t" : "Summer 75", "i" : "vintage-lady-beach-70-130-f"}
+    , { "t" : "Grandma ✨", "i" : "grandma-70-130-f"}
+    , { "t" : "Mom ✨", "i" : "vintage-mother-70-130-f"}
+    , { "t" : "Youth", "i" : "vintage-woman-70-130-f"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
+    , { "t" : "Our corner of paradise", "i" : "eglise-neige-70-130-all"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "Famille Darricourt"}
-    , { "t": "Les Mercier"}
-    , { "t": "Josiane et Maurice"}
-    , { "t": "De tout cœur avec vous"}
+    , { "t": "Evans Family"}
+    , { "t": "The Pearsons"}
+    , { "t": "Rebecca and Miguel"}
+    , { "t": "Our hearts go out to you"}
 
 
       ],
 
       "70,130": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
-    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
+      { "t": "Summer memories", "i":"vignes-eglise-lac-40-130-all"}
+    , { "t" : "Sending healing prayers and comforting hugs", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
-    , { "t" : "Hugo", "i" : "dessin-denfant-all"}
-    , { "t": "Famille Dubois"}
-    , { "t": "Tes enfants qui t'aiment 🕊"}
-    , { "t" : "Souvenirs de Rome", "i" : "voyage-italie-40-130-all"}
-    , { "t": "Nicole et Bernard"}
-    , { "t": "Emilie, aide-soignante"}
-    , { "t": "Vacances été 2001"}
-    , { "t": "Ton plus vieil ami"}
-    , { "t": "Ta nièce adorée"}
-    , { "t": "Emilie et Nicolas"}
-    , { "t": "Sandrine et Laurent"}
-    , { "t": "Julie et Thomas"}
-    , { "t": "Corinne et Bertrand"}
-    , { "t": "Sylvie, ta cousine chérie"}
-    , { "t" : "Enfance", "i" : "vintage-kid-70-130-m"}
-    , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
-    , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
-    , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
-    , { "t" : "Souvenir de cet hiver", "i" : "souvenir-winter-70-130-all"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
+    , { "t" : "Noah", "i" : "dessin-denfant-all"}
+    , { "t": "The Maser Family"}
+    , { "t": "Your kids qui t'aiment 🕊"}
+    , { "t" : "Memories of our trip to Rome", "i" : "voyage-italie-40-130-all"}
+    , { "t": "Carrie and Joe"}
+    , { "t": "Emily, caregiver"}
+    , { "t": "Summer 2001"}
+    , { "t": "Your oldest and dearest friend"}
+    , { "t": "Your loving niece"}
+    , { "t": "Ashley and Kevin"}
+    , { "t": "Jennifer and Michael"}
+    , { "t": "Jessica and Christopher"}
+    , { "t": "Donna and James"}
+    , { "t": "Sylvia, your loving cousin"}
+    , { "t" : "Childhood", "i" : "vintage-kid-70-130-m"}
+    , { "t" : "Memories of a beautiful summer in Italy", "i" : "boats-holidays-40-130-all"}
+    , { "t" : "Memories of this hike we took together", "i" : "chappelle-cipres-40-130-all"}
+    , { "t" : "Together forever", "i" : "vintage-couple-70-130-all"}
+    , { "t" : "Memories of last winter", "i" : "souvenir-winter-70-130-all"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t" : "Notre coin de paradis", "i" : "eglise-neige-70-130-all"}
+    , { "t" : "Our corner of paradise", "i" : "eglise-neige-70-130-all"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "Famille Darricourt"}
-    , { "t": "Les Mercier"}
-    , { "t": "Josiane et Maurice"}
-    , { "t": "De tout cœur avec vous"}
+    , { "t": "Evans Family"}
+    , { "t": "The Pearsons"}
+    , { "t": "Rebecca and Miguel"}
+    , { "t": "Our hearts go out to you"}
   ],
   
   "default": [
-    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
+      { "t" : "Sending healing prayers and comforting hugs", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
-    , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
+    , { "t" : "Thinking of you", "i" : "etang-25-130-all"}
     , { "t" : "", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
-    , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Our hearts go out to you"}
+    , { "t": "Thinking of you and wishing you moments of peace"}
+    , { "t": "Holding you close in our thoughts"}
     , { "t": "🕊"}
   ]
     }
