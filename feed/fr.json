@@ -322,13 +322,12 @@
     , { "t": "Julie et Thomas"}
     , { "t": "Corinne et Bertrand"}
     , { "t": "Sylvie, ta cousine chérie"}
-    , { "t" : "Enfance", "i" : "vintage-kid-70-130-m"}
     , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
     , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
     , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
     , { "t" : "Souvenir de cet hiver", "i" : "souvenir-winter-70-130-all"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
-    , { "t" : "Enfance", "i" : "vintage-boy-40-69-m"}
+    , { "t" : "Retrouvé dans un vieil album de famille", "i" : "vintage-boy-40-69-m"}
     , { "t" : "Elégance en toutes circonstances", "i" : "vintage-man-70-130-m"}
     , { "t" : "Papa ✨", "i" : "vintage-family-70-130-m"}
     , { "t" : "🕊", "i" : "cloud-All"}
@@ -392,7 +391,7 @@
       ],
 
       "70,130": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "Souvenirs de l'été dernier", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
@@ -409,7 +408,6 @@
     , { "t": "Julie et Thomas"}
     , { "t": "Corinne et Bertrand"}
     , { "t": "Sylvie, ta cousine chérie"}
-    , { "t" : "Enfance", "i" : "vintage-kid-70-130-m"}
     , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
     , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
     , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
