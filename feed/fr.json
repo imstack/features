@@ -307,7 +307,7 @@
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "Tes enfants qui t'aiment 🕊"}
-    , { "t" : "Souvenirs de Rome", "i" : "voyage-italie-40-130-all"}
+    , { "t" : "Victor Hugo, Demain, dès l’aube…", "p" : 12}
     , { "t": "Pour le meilleur des grands-pères ✨"}
     , { "t": "Nicole et Bernard"}
     , { "t": "Emilie, aide-soignante"}
@@ -319,7 +319,7 @@
     , { "t": "Maman ✨"}
     , { "t": "Julie et Thomas"}
     , { "t": "Corinne et Bertrand"}
-    , { "t": "Sylvie, ta cousine chérie"}
+    , { "t": "Lettre de Sylvie, ta cousine chérie", "p":18}
     , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
     , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
     , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
@@ -352,7 +352,7 @@
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "Tes enfants qui t'aiment 🕊"}
-    , { "t" : "Souvenirs de Rome", "i" : "voyage-italie-40-130-all"}
+    , { "t" : "Victor Hugo, Demain, dès l’aube…", "p" : 12}
     , { "t": "Pour le meilleur des grands-pères ✨"}
     , { "t": "Nicole et Bernard"}
     , { "t": "Emilie, aide-soignante"}
@@ -364,7 +364,7 @@
     , { "t": "Maman ✨"}
     , { "t": "Julie et Thomas"}
     , { "t": "Corinne et Bertrand"}
-    , { "t": "Sylvie, ta cousine chérie"}
+    , { "t": "Lettre de Sylvie, ta cousine chérie", "p":18}
     , { "t": "Annie"}
     , { "t" : "Je pense à toi", "i" : "flower-40-130-f"}
     , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
@@ -395,7 +395,7 @@
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "Tes enfants qui t'aiment 🕊"}
-    , { "t" : "Souvenirs de Rome", "i" : "voyage-italie-40-130-all"}
+    , { "t" : "Victor Hugo, Demain, dès l’aube…", "p" : 12}
     , { "t": "Nicole et Bernard"}
     , { "t": "Emilie, aide-soignante"}
     , { "t": "Vacances été 2001"}
@@ -405,7 +405,7 @@
     , { "t": "Sandrine et Laurent"}
     , { "t": "Julie et Thomas"}
     , { "t": "Corinne et Bertrand"}
-    , { "t": "Sylvie, ta cousine chérie"}
+    , { "t": "Lettre de Sylvie, ta cousine chérie", "p":18}
     , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
     , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
     , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
@@ -418,7 +418,8 @@
     , { "t": "Les Mercier"}
     , { "t": "Josiane et Maurice"}
     , { "t": "De tout cœur avec vous"}
-    , { "t": "Texte lu durant la cérémonie", "p" : 10}
+    , { "t": "Texte lu durant la cérémonie", "p" : 20}
+    , { "t": "Texte lu durant la cérémonie", "p" : 20}
 
   ],
   
