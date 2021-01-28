@@ -418,6 +418,8 @@
     , { "t": "Les Mercier"}
     , { "t": "Josiane et Maurice"}
     , { "t": "De tout cœur avec vous"}
+    , { "t": "Texte lu durant la cérémonie", "p" : 10}
+
   ],
   
   "default": [
