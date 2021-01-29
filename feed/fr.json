@@ -312,7 +312,7 @@
     , { "t": "Nicole et Bernard"}
     , { "t": "Emilie, aide-soignante"}
     , { "t": "Vacances été 2001"}
-    , { "t": "Mon plus vieil ami"}
+    , { "t": "Mon plus vieil ami", "p":15}
     , { "t": "Ta nièce adorée"}
     , { "t": "Emilie et Nicolas"}
     , { "t": "Sandrine et Laurent"}
@@ -357,7 +357,7 @@
     , { "t": "Nicole et Bernard"}
     , { "t": "Emilie, aide-soignante"}
     , { "t": "Vacances été 2001"}
-    , { "t" : "Mon plus vieil ami"}
+    , { "t" : "Mon plus vieil ami", "p":15}
     , { "t": "Ta nièce adorée"}
     , { "t": "Emilie et Nicolas"}
     , { "t": "Sandrine et Laurent"}
@@ -399,7 +399,7 @@
     , { "t": "Nicole et Bernard"}
     , { "t": "Emilie, aide-soignante"}
     , { "t": "Vacances été 2001"}
-    , { "t": "Ton plus vieil ami"}
+    , { "t": "Ton plus vieil ami", "p":15}
     , { "t": "Ta nièce adorée"}
     , { "t": "Emilie et Nicolas"}
     , { "t": "Sandrine et Laurent"}
