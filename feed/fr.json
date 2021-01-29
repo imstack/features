@@ -1,6 +1,8 @@
 { 
   "0,13,m": [
-      { "t": "Les cousins", "i": "dessin-0-13-all" }
+      { "t": "De tout cœur avec vous"}
+    , { "t": "Lettre lue durant la cérémonie", "p" : 20} 
+    , { "t": "Les cousins", "i": "dessin-0-13-all" }
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t": "Laura, maman de l'école"}
@@ -14,12 +16,11 @@
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
 
-
-
-
   ],
   "0,13,f": [
-      { "t": "Les cousins", "i": "dessin-0-13-all" }
+      { "t": "De tout cœur avec vous"}
+    , { "t": "Lettre lue durant la cérémonie", "p" : 20}  
+    , { "t": "Les cousins", "i": "dessin-0-13-all" }
     , { "t" : "Nos pensées vous accompagnent", "i" : "bougie-all-f"}
     , { "t": "Laura, maman de l'école"}
     , { "t": "Sandrine et Laurent"}
@@ -28,13 +29,14 @@
     , { "t": "Famille Dubois"}
     , { "t" : "🙏", "i" : "candle-0-13-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
 
     ],
   "0,13": [
-      { "t": "Les cousins", "i": "dessin-0-13-all" }
+      { "t": "De tout cœur avec vous"}
+    , { "t": "Lettre lue durant la cérémonie", "p" : 20} 
+    , { "t": "Les cousins", "i": "dessin-0-13-all" }
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t": "Laura, maman de l'école"}
@@ -44,19 +46,20 @@
     , { "t": "Famille Dubois"}
     , { "t" : "Avec toute notre amitié", "i" : "candle-0-13-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
-    , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
 
   ],
   "14,25,m": [
-     { "t" : "🙏", "i" : "candle-26-130-m"}
+    { "t": "Pour mon meilleur pote"}
+    , { "t": "Lettre lue durant la cérémonie", "p" : 20} 
+    , { "t": "Recevez notre profond soutien"}
+    , { "t" : "🙏", "i" : "candle-26-130-m"}
     , { "t": "Souvenirs d'été", "i":"vacances-hossegor-25-130-all"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "Tes amis d'enfance ✨"}
     , { "t": "Les cousins"}
-    , { "t": "Pour mon meilleur pote"}
     , { "t": "La bande des 3"}
     , { "t": "Ton tonton qui t'aime  😘"}
     , { "t": "Les anciens de la classe 5ème"}
@@ -65,12 +68,13 @@
     , { "t" : "Amis pour toujours", "i" : "shadow-14-25-all"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
 
   ],
   "14,25,f": [
-     { "t" : "🙏", "i" : "bougie-all-f"}
+      { "t": "Ta meilleure amie"}
+    , { "t": "Texte lu durant la cérémonie", "p" : 20} 
+    , { "t" : "🙏", "i" : "bougie-all-f"}
     , { "t": "Souvenirs d'été", "i":"vacances-hossegor-25-130-all"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
@@ -91,13 +95,14 @@
   ],
 
   "14,25": [
-     { "t" : "🙏", "i" : "candle-26-130-m"}
+      { "t": "Ton meilleur pote"}
+    , { "t": "Texte lu durant la cérémonie", "p" : 20} 
+    , { "t" : "🙏", "i" : "candle-26-130-m"}
     , { "t": "Souvenirs d'été", "i":"vacances-hossegor-25-130-all"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
     , { "t": "Tes amis d'enfance ✨"}
     , { "t": "Les cousins"}
-    , { "t": "Ton meilleur pote"}
     , { "t": "La bande des 3"}
     , { "t": "Ton tonton qui t'aime  😘"}
     , { "t": "Les anciens de la classe 5ème"}
@@ -111,7 +116,8 @@
 
   ],
   "26,39,m": [
-     { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
+      { "t": "Recevez notre profond soutien"}
+    , { "t": "Les cousins"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
@@ -119,7 +125,6 @@
     , { "t": "Tes amis d'enfance✨"}
     , { "t": "Julie et Thomas"}
     , { "t": "Laura, maman de l'école"}
-    , { "t": "Les cousins"}
     , { "t": "Maxime"}
     , { "t": "Papa"}
     , { "t": "Ton oncle Fred"}
@@ -135,15 +140,15 @@
     , { "t" : "Souvenir d'un bon dîner tous ensemble", "i" : "beers-26-39-m"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
-    , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
-
+    , { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
 
 
   ],
   "26,39,f": [
-    { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
+      { "t": "De tout cœur avec vous"}
+    , { "t": "Texte lu durant la cérémonie", "p" : 20} 
+    , { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
     , { "t" : "🙏", "i" : "bougie-all-f"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Famille Dubois"}
@@ -166,7 +171,6 @@
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
 
@@ -175,7 +179,9 @@
   ],
 
   "26,39": [
-     { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
+      { "t": "De tout cœur avec vous"}
+    , { "t": "Texte lu durant la cérémonie", "p" : 20} 
+    , { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
@@ -199,14 +205,15 @@
     , { "t" : "Souvenir d'un bon dîner tous ensemble", "i" : "beers-26-39-m"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
 
 
   ],
   "40,69,m": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "De tout cœur avec vous"}
+    , { "t": "Texte lu durant la cérémonie", "p" : 20} 
+    , { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
@@ -237,7 +244,8 @@
 
   ],
   "40,69,f": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "De tout cœur avec vous"}
+    , { "t": "Texte lu durant la cérémonie", "p" : 20}  
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "bougie-all-f"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
@@ -247,6 +255,7 @@
     , { "t": "Souvenir de vacances", "i": "vacances-hossegor-25-130-all"}
     , { "t": "Nathalie et Laurent"}
     , { "t": "Les cousins"}
+    , { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
     , { "t": "Isabelle, une voisine"}
     , { "t": "Ma tante"}
     , { "t": "Emilie et Nicolas"}
@@ -260,7 +269,6 @@
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
     , { "t": "Nous perdons une collègue et une amie très chère."}
@@ -271,6 +279,7 @@
   ],
   "40,69": [
       { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+    , { "t": "Texte lu durant la cérémonie", "p" : 20}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
@@ -301,7 +310,7 @@
 
   ],
   "70,130,m": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "De tout cœur avec vous"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
@@ -319,6 +328,7 @@
     , { "t": "Maman ✨"}
     , { "t": "Julie et Thomas"}
     , { "t": "Corinne et Bertrand"}
+    , { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
     , { "t": "Lettre de Sylvie, ta cousine chérie", "p":18}
     , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
     , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
@@ -346,7 +356,8 @@
 
   ],
   "70,130,f": [
-      { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "Texte lu durant la cérémonie", "p" : 20}
+    , { "t": "De tout cœur avec vous"}
     , { "i": "illu avec une bougie" }
     , { "t" : "🙏", "i" : "bougie-all-f"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
@@ -384,12 +395,14 @@
     , { "t": "Les Mercier"}
     , { "t": "Josiane et Maurice"}
     , { "t": "De tout cœur avec vous"}
+    , { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
+
 
 
       ],
 
       "70,130": [
-      { "t": "Souvenirs de l'été dernier", "i":"vignes-eglise-lac-40-130-all"}
+      { "t": "De tout cœur avec vous"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
@@ -417,21 +430,32 @@
     , { "t": "Famille Darricourt"}
     , { "t": "Les Mercier"}
     , { "t": "Josiane et Maurice"}
-    , { "t": "De tout cœur avec vous"}
     , { "t": "Texte lu durant la cérémonie", "p" : 20}
-    , { "t": "Texte lu durant la cérémonie", "p" : 20}
+    , { "t": "Souvenirs de l'été dernier", "i":"vignes-eglise-lac-40-130-all"}
+
 
   ],
   
   "default": [
-     { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
+      { "t" : "Nos sincères condoléances"} 
+    , { "t": "Texte lu durant la cérémonie", "p" : 20}    
+    , { "t" : "Nos pensées vous accompagnent", "i" : "candle-70-130-m"}
     , { "t" : "🙏", "i" : "candle-26-130-m"}
+    , { "t": "Famille Darricourt"}
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
+    , { "t": "Corinne et Bertrand"}
     , { "t" : "", "i" : "cloud-All"}
+    , { "t": "Julie et Thomas"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
     , { "t": "🕊"}
+    , { "t": "Ton plus vieil ami", "p":15}
+    , { "t": "Emilie et Nicolas"}
+    , { "t": "Sandrine et Laurent"}
+    , { "t": "Les Mercier"}
+    , { "t": "Josiane et Maurice"}
+
   ]
     }
