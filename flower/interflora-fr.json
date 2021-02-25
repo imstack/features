@@ -1,11 +1,7 @@
 {
   "shipping":{
     "price":15.90,
-    "info":{
-      "fr":"Présenté dans un panier en osier, ce magnifique bouquet se compose de fleurs fraîches de saison aux tonalités roses et orangées.\n Diamètre du panier : environ 25 cm.",
-      "en":"This freshly cut bouquet of seasonal pink and orange blooms is beautifully presented in a wicker basket.\n Basket diameter: 9.84 inches.",
-      "es":"This freshly cut bouquet of seasonal pink and orange blooms is beautifully presented in a wicker basket.\n Basket diameter: 9.84 inches."
-    }
+    "info":""
   },
   "catalog":[
     {
