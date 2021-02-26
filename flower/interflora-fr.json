@@ -5,19 +5,35 @@
   },
   "catalog":[
     {
-      "name":"Souvenir",
-      "product":"6P04",
-      "price":113.90,
+      "name":"Aria",
+      "product":"6P02",
+      "price":79.90,
       "size":"NORMALE",
       "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_HDx3_errsf5.png",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_02_mhzsqa",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_03_sxzmya",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_04_eg9e4p"
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_HDx3_f5rhp6",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_02_t6mmah",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_03_vql7a1",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_04_mwif5s"
       ],
       "info":{
-        "fr":"Présenté dans un panier en osier, ce magnifique bouquet se compose de fleurs fraîches de saison aux tonalités roses et orangées.\n Diamètre du panier : environ 25 cm.",
-        "en":"This freshly cut bouquet of seasonal pink and orange blooms is beautifully presented in a wicker basket.\n Basket diameter: 9.84 inches."
+        "fr":"Une jolie composition florale, pleine de fraîcheur et de féminité avec ses fleurs roses et blanches disposées tout en délicatesse.",
+        "en":"This lovely white floral bouquet, with its pink and white flowers carefully arranged is full of freshness and femininity."
+      }
+    },
+    {
+      "name":"Orée",
+      "product":"6CP03",
+      "price":47.90,
+      "size":"Prix unique",
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1614347220/Flowers/Interflora%2026.02.21/Ore%CC%81e_1.png",
+        "https://res.cloudinary.com/inmemori/image/upload/v1614347220/Flowers/Interflora%2026.02.21/Ore%CC%81e_2.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1614347221/Flowers/Interflora%2026.02.21/Ore%CC%81e_3.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1614347219/Flowers/Interflora%2026.02.21/Ore%CC%81e_4.jpg"
+      ],
+      "info":{
+        "fr":"Jardin paysager composé d'un rosier et de plantes vertes de saison.",
+        "en":"A farmer’s choice of red seasonal blooms and plants."
       }
     },
     {
@@ -34,6 +50,22 @@
       "info":{
         "fr":"Ce joli bouquet, tout en simplicité, est composé de fleurs blanches, symboles de pureté et de consolation, et d'un feuillage champêtre.",
         "en":"Simple and elegant, this assortment of fresh white flowers conveys purity and soothing. Full of fresh green accent flowers too."
+      }
+    },
+    {
+      "name":"Pensée",
+      "product":"6B02",
+      "price":72.90,
+      "size":"XL",
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pensee_et_sa_bulle_d_eau_HDx3_phltva",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_02_iq9l0o",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_03_jthtes",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_04_efkvw7"
+      ],
+      "info":{
+        "fr":"Ce bouquet rond est exclusivement composé de délicates roses aux couleurs pastel finement dégradées. Bouquet au format XL.",
+        "en":"This round bouquet is entirely composed of delicate pastel roses."
       }
     },
     {
@@ -68,103 +100,7 @@
         "en":"Arranged in a lovely round wicker basket, these white roses incarnate purity and beauty.\n Basket diameter: about 1 foot."
       }
     },
-    {
-      "name":"Symphonie",
-      "product":"6G01",
-      "price":95.90,
-      "size":"NORMALE",
-      "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_HDx3_fb596b",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_02_ziwosf",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_03_wtqff4",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_04_m8llrn"
-      ],
-      "info":{
-        "fr":"Cette gerbe de fleurs automnale, toute en longueur, apportera sa touche de fraîcheur avec ses fleurs à dominante rouges et orangées.\n Longueur : environ 70 cm.",
-        "en":"This spray of autumnal flowers, will bring a touch of lightness with its predominantly orange and red blooms.\n Length of flowers: about 27 inches."
-      }
-    },
-    {
-      "name":"Pensée",
-      "product":"6B02",
-      "price":72.90,
-      "size":"XL",
-      "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pensee_et_sa_bulle_d_eau_HDx3_phltva",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_02_iq9l0o",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_03_jthtes",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_04_efkvw7"
-      ],
-      "info":{
-        "fr":"Ce bouquet rond est exclusivement composé de délicates roses aux couleurs pastel finement dégradées. Bouquet au format XL.",
-        "en":"This round bouquet is entirely composed of delicate pastel roses."
-      }
-    },
-    {
-      "name":"Cérémonie",
-      "product":"6P03",
-      "price":118.90,
-      "size":"NORMALE",
-      "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Cereemonie_HDx3_zsl5c3",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_02_dvxovt",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_03_mfu31w",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_04_aggxcx"
-      ],
-      "info":{
-        "fr":"Une délicate composition de fleurs blanches, symbole de pureté et de consolation.",
-        "en":"This delicate arrangement of white flowers symbolizes purity and soothing."
-      }
-    },
-    {
-      "name":"Emotion",
-      "product":"6CP01",
-      "price":49.90,
-      "size":"Prix unique",
-      "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_HDx3_e3l0gr",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_02_o5qbfu",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_03_qaiqep",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/E%CC%81motion_04_mydj4j"
-      ],
-      "info":{
-        "fr":"Jardin paysager composé de fleurs et de plantes de saison de tonalité rouge.",
-        "en":"A farmer’s choice of red seasonal blooms and plants."
-      }
-    },
-    {
-      "name":"Aria",
-      "product":"6P02",
-      "price":79.90,
-      "size":"NORMALE",
-      "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_HDx3_f5rhp6",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_02_t6mmah",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_03_vql7a1",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aria_04_mwif5s"
-      ],
-      "info":{
-        "fr":"Une jolie composition florale, pleine de fraîcheur et de féminité avec ses fleurs roses et blanches disposées tout en délicatesse.",
-        "en":"This lovely white floral bouquet, with its pink and white flowers carefully arranged is full of freshness and femininity."
-      }
-    },
-    {
-      "name":"Louange",
-      "product":"6B06",
-      "price":126.90,
-      "size":"XL",
-      "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_HDx3_kmj5zk",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_02_sgajaz",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_03_ubmug2",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_04_ecd0oi"
-      ],
-      "info":{
-        "fr":"Un magnifique bouquet de lys et de roses, composé tout en légèreté dans des teintes dégradées de roses. Livré au format XL.",
-        "en":"This majestic bouquet of lilies and roses is the perfect symbol of lightness, with its lightly shaded pink petals."
-      }
-    },
-    {
+     {
       "name":"Symphonie blanc",
       "product":"6G01W",
       "price":95.90,
@@ -194,6 +130,70 @@
       "info":{
         "fr":"Jardin paysager composé de plantes vertes et de fleurs violettes de saison.\n Diamètre du contenant : environ 27 cm.",
         "en":"A farmer’s choice of seasonal violet blooms and green plants.\n Diameter of container: about 10.6 inches."
+      }
+    },
+    {
+      "name":"Cérémonie",
+      "product":"6P03",
+      "price":118.90,
+      "size":"NORMALE",
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Cereemonie_HDx3_zsl5c3",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_02_dvxovt",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_03_mfu31w",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_04_aggxcx"
+      ],
+      "info":{
+        "fr":"Une délicate composition de fleurs blanches, symbole de pureté et de consolation.",
+        "en":"This delicate arrangement of white flowers symbolizes purity and soothing."
+      }
+    },
+    {
+      "name":"Souvenir",
+      "product":"6P04",
+      "price":113.90,
+      "size":"NORMALE",
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_HDx3_errsf5.png",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_02_mhzsqa",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_03_sxzmya",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_04_eg9e4p"
+      ],
+      "info":{
+        "fr":"Présenté dans un panier en osier, ce magnifique bouquet se compose de fleurs fraîches de saison aux tonalités roses et orangées.\n Diamètre du panier : environ 25 cm.",
+        "en":"This freshly cut bouquet of seasonal pink and orange blooms is beautifully presented in a wicker basket.\n Basket diameter: 9.84 inches."
+      }
+    },
+    {
+      "name":"Louange",
+      "product":"6B06",
+      "price":126.90,
+      "size":"XL",
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_HDx3_kmj5zk",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_02_sgajaz",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_03_ubmug2",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_04_ecd0oi"
+      ],
+      "info":{
+        "fr":"Un magnifique bouquet de lys et de roses, composé tout en légèreté dans des teintes dégradées de roses. Livré au format XL.",
+        "en":"This majestic bouquet of lilies and roses is the perfect symbol of lightness, with its lightly shaded pink petals."
+      }
+    },
+    {
+      "name":"Symphonie",
+      "product":"6G01",
+      "price":95.90,
+      "size":"NORMALE",
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_HDx3_fb596b",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_02_ziwosf",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_03_wtqff4",
+        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_04_m8llrn"
+      ],
+      "info":{
+        "fr":"Cette gerbe de fleurs automnale, toute en longueur, apportera sa touche de fraîcheur avec ses fleurs à dominante rouges et orangées.\n Longueur : environ 70 cm.",
+        "en":"This spray of autumnal flowers, will bring a touch of lightness with its predominantly orange and red blooms.\n Length of flowers: about 27 inches."
       }
     }
   ]
