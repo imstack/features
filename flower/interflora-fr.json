@@ -165,18 +165,18 @@
       }
     },
     {
-      "name":"Louange",
-      "product":"6B06",
-      "price":126.90,
+      "name":"Noblesse",
+      "product":"6CR1",
+      "price":299.00,
       "size":"XL",
       "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_HDx3_kmj5zk",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_02_sgajaz",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_03_ubmug2",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Louange_04_ecd0oi"
+        "https://res.cloudinary.com/inmemori/image/upload/v1614347704/Flowers/Interflora%2026.02.21/Noblesse_1.png",
+        "https://res.cloudinary.com/inmemori/image/upload/v1614347706/Flowers/Interflora%2026.02.21/Noblesse_2.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1614347703/Flowers/Interflora%2026.02.21/Noblesse_3.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1614347703/Flowers/Interflora%2026.02.21/Noblesse_4.jpg"
       ],
       "info":{
-        "fr":"Un magnifique bouquet de lys et de roses, composé tout en légèreté dans des teintes dégradées de roses. Livré au format XL.",
+        "fr":"Présentée à plat avec des roses, callas, germinis, chrysanthèmes et fleurs de saison blanches et vertes.",
         "en":"This majestic bouquet of lilies and roses is the perfect symbol of lightness, with its lightly shaded pink petals."
       }
     },
