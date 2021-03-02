@@ -149,18 +149,18 @@
       }
     },
      {
-      "name":"Souvenir",
-      "product":"6P04",
-      "price":113.90,
+      "name":"Hélios",
+      "product":"6R01",
+      "price":146.90,
       "size":"NORMALE",
       "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_HDx3_errsf5.png",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_02_mhzsqa",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_03_sxzmya",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_04_eg9e4p"
+        "https://res.cloudinary.com/inmemori/image/upload/v1614697703/Flowers/Interflora%2026.02.21/He%CC%81lios_1.png",
+        "https://res.cloudinary.com/inmemori/image/upload/v1614697703/Flowers/Interflora%2026.02.21/He%CC%81lios_2.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1614697703/Flowers/Interflora%2026.02.21/He%CC%81lios_3.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1614697703/Flowers/Interflora%2026.02.21/He%CC%81lios_4.jpg"
       ],
       "info":{
-        "fr":"Présenté dans un panier en osier, ce magnifique bouquet se compose de fleurs fraîches de saison aux tonalités roses et orangées.\n Diamètre du panier : environ 25 cm.",
+        "fr":"Raquette de fleurs naturelles composée de roses, germinis, oeillets et fleurs de saison.",
         "en":"This freshly cut bouquet of seasonal pink and orange blooms is beautifully presented in a wicker basket.\n Basket diameter: 9.84 inches."
       }
     },   
