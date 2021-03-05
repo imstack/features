@@ -202,7 +202,7 @@
 
   ],
   "40,69,m": [
-      { "t": "De tout cœur avec vous"}
+      { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Texte lu durant la cérémonie", "p" : 20} 
     , { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
@@ -234,7 +234,7 @@
 
   ],
   "40,69,f": [
-      { "t": "De tout cœur avec vous"}
+      { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Texte lu durant la cérémonie", "p" : 20}  
     , { "t" : "🙏", "i" : "candle-70-130-m"}
     , { "t" : "Nos pensées vous accompagnent", "i" : "bougie-all-f"}
@@ -289,8 +289,7 @@
     , { "t" : "Je pense à toi", "i" : "etang-25-130-all"}
     , { "t" : "🕊", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
-    , { "t": "Sincères condoléances"}
-    , { "t": "De tout cœur avec vous"}
+    , { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
 
