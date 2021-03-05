@@ -210,7 +210,7 @@
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "A mon papa ✨"}
     , { "t": "Tes collègues à qui tu vas manquer"}
-    , { "t": "Souvenir de vacances", "i": "vacances-hossegor-25-130-all"}
+    , { "t": "Vacances ensemble", "i": "vacances-hossegor-25-130-all"}
     , { "t": "Nathalie & Laurent"}
     , { "t": "Les cousins"}
     , { "t": "Isabelle, une voisine"}
@@ -229,6 +229,7 @@
     , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Récit d'un souvenir de notre voyage ensemble - Italie 2014", "i" : "boats-holidays-40-130-all"}
     , { "t": "Nous perdons un collègue et un ami très cher."}
 
 
@@ -241,7 +242,7 @@
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "A ma maman ✨"}
     , { "t": "Tes collègues à qui tu vas manquer"}
-    , { "t": "Souvenir de vacances", "i": "vacances-hossegor-25-130-all"}
+    , { "t": "Vacances ensemble", "i": "vacances-hossegor-25-130-all"}
     , { "t": "Nathalie & Laurent"}
     , { "t": "Les cousins"}
     , { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
@@ -260,6 +261,7 @@
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Récit d'un souvenir de notre voyage ensemble - Italie 2014", "i" : "boats-holidays-40-130-all"}
     , { "t": "Nous perdons une collègue et une amie très chère."}
 
 
@@ -274,7 +276,7 @@
     , { "t" : "Hugo", "i" : "dessin-denfant-all"}
     , { "t": "Tes enfants ✨"}
     , { "t": "Tes collègues à qui tu vas manquer"}
-    , { "t": "Souvenir de vacances", "i": "vacances-hossegor-25-130-all"}
+    , { "t": "Vacances ensemble", "i": "vacances-hossegor-25-130-all"}
     , { "t": "Nathalie & Laurent"}
     , { "t": "Les cousins"}
     , { "t": "Isabelle, une voisine"}
@@ -291,6 +293,7 @@
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Recevez notre profond soutien"}
+    , { "t": "Récit d'un souvenir de notre voyage ensemble - Italie 2014", "i" : "boats-holidays-40-130-all"}
     , { "t": "Nous prenons part à votre chagrin"}
 
   ],
