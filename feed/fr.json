@@ -1,6 +1,6 @@
 { 
   "0,13,m": [
-      { "t": "De tout cœur avec vous"}
+      { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Lettre lue durant la cérémonie", "p" : 20} 
     , { "t": "Les cousins", "i": "dessin-0-13-all" }
     , { "t" : "🙏", "i" : "candle-70-130-m"}
@@ -17,7 +17,7 @@
 
   ],
   "0,13,f": [
-      { "t": "De tout cœur avec vous"}
+      { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Lettre lue durant la cérémonie", "p" : 20}  
     , { "t": "Les cousins", "i": "dessin-0-13-all" }
     , { "t" : "Nos pensées vous accompagnent", "i" : "bougie-all-f"}
@@ -32,7 +32,7 @@
 
     ],
   "0,13": [
-      { "t": "De tout cœur avec vous"}
+      { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Lettre lue durant la cérémonie", "p" : 20} 
     , { "t": "Les cousins", "i": "dessin-0-13-all" }
     , { "t" : "🙏", "i" : "candle-70-130-m"}
@@ -63,7 +63,7 @@
     , { "t": "Les copains du club"}
     , { "t" : "Amis pour toujours", "i" : "shadow-14-25-all"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
-    , { "t": "De tout cœur avec vous"}
+    , { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Nous prenons part à votre chagrin"}
 
   ],
@@ -83,7 +83,7 @@
     , { "t": "Les copains du club"}
     , { "t" : "Amis pour toujours", "i" : "shadow-14-25-all"}
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
-    , { "t": "De tout cœur avec vous"}
+    , { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
 
