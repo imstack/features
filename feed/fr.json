@@ -57,7 +57,7 @@
     , { "t": "Tes amis d'enfance ✨"}
     , { "t": "Les cousins"}
     , { "t": "La bande des 3"}
-    , { "t": "Ton tonton qui t'aime  😘"}
+    , { "t": "Ton tonton qui t'aime 😘"}
     , { "t": "Les anciens de la classe 5ème"}
     , { "t": "Papa"}
     , { "t": "Les copains du club"}
@@ -98,7 +98,7 @@
     , { "t": "Tes amis d'enfance ✨"}
     , { "t": "Les cousins"}
     , { "t": "La bande des 3"}
-    , { "t": "Ton tonton qui t'aime  😘"}
+    , { "t": "Ton tonton qui t'aime 😘"}
     , { "t": "Les anciens de la classe 5ème"}
     , { "t": "Papa"}
     , { "t": "Les copains du club"}
@@ -134,12 +134,13 @@
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "Nous prenons part à votre chagrin"}
+    , { "t": "Récit d'un souvenir de notre voyage ensemble - Italie 2014", "i" : "boats-holidays-40-130-all"}
     , { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
 
 
   ],
   "26,39,f": [
-      { "t": "De tout cœur avec vous"}
+      { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Texte lu durant la cérémonie", "p" : 20} 
     , { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
     , { "t" : "🙏", "i" : "bougie-all-f"}
@@ -152,7 +153,7 @@
     , { "t": "Papa"}
     , { "t": "Ton oncle Fred"}
     , { "t": "Un collègue à qui tu vas manquer"}
-    , { "t" :"a soeur"}
+    , { "t" :"Ta soeur"}
     , { "t": "Pour ma tata"}
     , { "t": "Emilie & Nicolas"}
     , { "t" : "Ces étés vont me manquer", "i" : "tongs-26-39-all"}
@@ -164,6 +165,7 @@
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "Recevez notre profond soutien"}
+    , { "t": "Récit d'un souvenir de notre voyage ensemble - Italie 2014", "i" : "boats-holidays-40-130-all"}
     , { "t": "Nous prenons part à votre chagrin"}
 
 
@@ -171,7 +173,7 @@
   ],
 
   "26,39": [
-      { "t": "De tout cœur avec vous"}
+      { "t": "De tout cœur avec vous - famille Dubois"}
     , { "t": "Texte lu durant la cérémonie", "p" : 20} 
     , { "t" : "Eté 2008", "i" : "lac-montagne-25-130-all"}
     , { "t" : "🙏", "i" : "candle-70-130-m"}
@@ -197,6 +199,7 @@
     , { "t" : "Sincères condoléances", "i" : "cloud-All"}
     , { "t" : "♥️", "i" : "pissenlit-40-130"}
     , { "t": "Recevez notre profond soutien"}
+    , { "t": "Récit d'un souvenir de notre voyage ensemble - Italie 2014", "i" : "boats-holidays-40-130-all"}
     , { "t": "Nous prenons part à votre chagrin"}
 
 
