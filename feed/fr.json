@@ -293,8 +293,6 @@
     , { "t": "De tout cœur avec vous"}
     , { "t": "Recevez notre profond soutien"}
     , { "t": "Nous prenons part à votre chagrin"}
-    , { "t": "Nous perdons un collègue et un ami très cher."}
-
 
   ],
   "70,130,m": [
@@ -315,7 +313,7 @@
     , { "t": "Corinne & Bertrand"}
     , { "t": "Souvenirs d'été", "i":"vignes-eglise-lac-40-130-all"}
     , { "t": "Lettre de Sylvie, ta cousine chérie", "p":18}
-    , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
+    , { "t" : "Récit d'un souvenir de notre voyage ensemble en Italie", "i" : "boats-holidays-40-130-all"}
     , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
     , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
     , { "t" : "Souvenir de cet hiver", "i" : "souvenir-winter-70-130-all"}
@@ -359,7 +357,7 @@
     , { "t": "Lettre de Sylvie, ta cousine chérie", "p":18}
     , { "t": "Annie"}
     , { "t" : "Je pense à toi", "i" : "flower-40-130-f"}
-    , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
+    , { "t" : "Récit d'un souvenir de notre voyage ensemble en Italie", "i" : "boats-holidays-40-130-all"}
     , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
     , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
     , { "t" : "Souvenir de cet hiver", "i" : "souvenir-winter-70-130-all"}
@@ -397,7 +395,7 @@
     , { "t": "Sandrine & Laurent"}
     , { "t": "Corinne & Bertrand"}
     , { "t": "Lettre de Sylvie, ta cousine chérie", "p":18}
-    , { "t" : "Souvenirs d'un bel été ensemble en Italie", "i" : "boats-holidays-40-130-all"}
+    , { "t" : "Récit d'un souvenir de notre voyage ensemble en Italie", "i" : "boats-holidays-40-130-all"}
     , { "t" : "Souvenir de cette balade avec toi", "i" : "chappelle-cipres-40-130-all"}
     , { "t" : "Unis pour la vie", "i" : "vintage-couple-70-130-all"}
     , { "t" : "Souvenir de cet hiver", "i" : "souvenir-winter-70-130-all"}
