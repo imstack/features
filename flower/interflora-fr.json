@@ -165,18 +165,18 @@
       }
     },   
     {
-      "name":"Bosquet",
-      "product":"6CP02",
-      "price":83.90,
+      "name":"Sérénité",
+      "product":"6CP05",
+      "price":107.90,
       "size":"Prix unique",
       "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Bosquet_HDx3_tcyf1c",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Bosquet_02_jbgnxz",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Bosquet_03_jeojyw",
-        "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Bosquet_04_rsfl0q"
+        "https://res.cloudinary.com/inmemori/image/upload/v1615288210/Flowers/Interflora%2026.02.21/se%CC%81re%CC%81nite%CC%81_1.png",
+        "https://res.cloudinary.com/inmemori/image/upload/v1615288210/Flowers/Interflora%2026.02.21/se%CC%81re%CC%81nite%CC%81_2.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1615288210/Flowers/Interflora%2026.02.21/se%CC%81re%CC%81nite%CC%81_3.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1615288210/Flowers/Interflora%2026.02.21/se%CC%81re%CC%81nite%CC%81_4.jpg"
       ],
       "info":{
-        "fr":"Jardin paysager composé de plantes vertes et de fleurs violettes de saison.\n Diamètre du contenant : environ 27 cm.",
+        "fr":"Jardin paysager composé de plantes vertes et de fleurs blanches de saison.\n Elle s'épanouit à l'extérieur, quelle que soit la saison.",
         "en":"A farmer’s choice of seasonal violet blooms and green plants.\n Diameter of container: about 10.6 inches."
       }
     },
