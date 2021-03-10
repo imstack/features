@@ -1,0 +1,162 @@
+{
+  "shipping":{
+    "price":15.90,
+    "info":""
+  },
+  "catalog":[
+    {
+      "name":"Cassiopée",
+      "product":"Bouquet rond aux tons colorés. Dimension : 30 cm",
+      "price":60.00,
+      "img":[
+"https://res.cloudinary.com/inmemori/image/upload/v1615387438/Flowers/Limeil/Cassiope%CC%81e.jpg"
+      ],
+      "info":{
+        "fr":"Bouquet rond aux tons colorés. Les fleurs peuvent varier en fonction de la saison. Dimension : 30 cm"
+      }
+    },
+    {
+      "name":"Centaure",
+      "product":"Bouquet rond aux tons colorés. Dimension : 30 cm",
+      "price":60.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387440/Flowers/Limeil/Centaure.jpg"
+      ],
+      "info":{
+        "fr":"Bouquet rond aux tons colorés. Les fleurs peuvent varier en fonction de la saison. Dimension : 30 cm"
+      }
+    },
+    {
+      "name":"Maïa",
+      "product":"Coeur de roses blanches et rouges. Dimension: 35 cm",
+      "price":150.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387444/Flowers/Limeil/Maia.jpg"
+      ],
+      "info":{
+        "fr":"Coeur de roses blanches et rouges. Dimension: 35 cm"
+      }
+    },
+    {
+      "name":"Andromède",
+      "product":"Arrangement de fleurs dans un contenant en béton gris. Cette composition florale dans les tons pastels est composée de lys, muflier, rose, gerbera, feuillage. Dimension : 45 cm",
+      "price":100.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387425/Flowers/Limeil/Androme%CC%80de.jpg"
+      ],
+      "info":{
+        "fr":"Arrangement de fleurs dans un contenant en béton gris. Cette composition florale dans les tons pastels est composée de lys, muflier, rose, gerbera, feuillage. Dimension : 45 cm"
+      }
+    },
+    {
+      "name":"Libertas",
+      "product":"Croix composée de rose, dendrodium, santini et feuillage. Dimension : 55 cm",
+      "price":75.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387441/Flowers/Limeil/Libertas.jpg"
+      ],
+      "info":{
+        "fr":"Croix composée de rose, dendrodium, santini et feuillage. Dimension : 55 cm"
+      }
+    },
+    {
+      "name":"Persée",
+      "product":"Gerbe main dans les tons rouges, jaunes, verts. Composée de muflier, bonny, gerbera, aster, alstomeria, robelini, feuillage. Dimension : 1 m de long",
+      "price":100.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387454/Flowers/Limeil/Perse%CC%81e.jpg"
+      ],
+      "info":{
+        "fr":"Gerbe main dans les tons rouges, jaunes, verts. Composée de muflier, bonny, gerbera, aster, alstomeria, robelini, feuillage. Les fleurs peuvent varier en fonction de la saison. Dimension : 1 m de long"
+      }
+    },
+    {
+      "name":"Cephée",
+      "product":"Bouquet de 30 roses rouges. Dimension : diamètre de 40 cm et hauteur de 50 cm",
+      "price":85.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387445/Flowers/Limeil/Cephe%CC%81e.jpg"
+      ],
+      "info":{
+        "fr":"Bouquet de 30 roses rouges. Dimension : diamètre de 40 cm et hauteur de 50 cm"
+      }
+    },
+    {
+      "name":"Pégase",
+      "product":"Gerbe main dans les tons pastels. Composée de muflier, bonny, gerbera, lys, aster, feuillage. Dimension : 1 m de long",
+      "price":125.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387454/Flowers/Limeil/Pe%CC%81gase.jpg"
+      ],
+      "info":{
+        "fr":"Gerbe main dans les tons pastels. Composée de muflier, bonny, gerbera, lys, aster, feuillage. Les fleurs peuvent varier en fonction de la saison. Dimension : 1 m de long"
+      }
+    },
+    {
+      "name":"Orion",
+      "product":"Coussin rond dans les tons pastels, composé de rose, santini, alstroemeria, aster, feuillage. Dimension : 40 cm",
+      "price":150.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615363790/Flowers/Limeil/Orion.jpg"
+      ],
+      "info":{
+        "fr":"Coussin rond dans les tons pastels, composé de rose, santini, alstroemeria, aster, feuillage. Les fleurs peuvent varier en fonction de la saison. Dimension : 40 cm"
+      }
+    },
+    {
+      "name":"Voie lactée",
+      "product":"Arrangement de fleurs dans une coupe blanche. Cette composition florale dans les tons blancs est composée de rose, lys, dendrobuim, arum, feuillage. Dimension : 80 cm",
+      "price":150.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387451/Flowers/Limeil/Voie_lacte%CC%81e.jpg"
+      ],
+      "info":{
+        "fr":"Arrangement de fleurs dans une coupe blanche. Cette composition florale dans les tons blancs est composée de rose, lys, dendrobuim, arum, feuillage. Dimension : 80 cm"
+      }
+    },
+     {
+      "name":"Columba",
+      "product":"Panier en bambou composé de 3 pots d'Orchidées blanches (Phalaenopsys) à 2 branches. Dimension : 35 cm de diamètre",
+      "price":120.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387424/Flowers/Limeil/Columba.jpg"
+      ],
+      "info":{
+        "fr":"Panier en bambou composé de 3 pots d'Orchidées blanches (Phalaenopsys) à 2 branches. Dimension : 35 cm de diamètre"
+      }
+    },
+  {
+      "name":"Vega",
+      "product":"Coupe ronde de plantes diverses. Dimension : 30 cm de diamètre",
+      "price":75.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615363789/Flowers/Limeil/Vega.jpg"
+      ],
+      "info":{
+        "fr":"Coupe ronde de plantes diverses. Les tons et plantes peuvent varier en fonction des saisons. Dimension : 30 cm de diamètre"
+      }
+    },
+     {
+      "name":"Sirius",
+      "product":"Coupe rectangulaire de plantes diverses. Dimension : 50 cm de longueur",
+      "price":75.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615363789/Flowers/Limeil/Sirius.jpg"
+      ],
+      "info":{
+        "fr":"Coupe rectangulaire de plantes diverses. Les tons et plantes peuvent varier en fonction des saisons. Dimension : 50 cm de longueur"
+      }
+    },
+     {
+      "name":"Constellation",
+      "product":"Couronne de roses composée de rose, santini, arum et feuillage. Dimension : 40 cm de diamètre",
+      "price":75.00,
+      "img":[
+        "https://res.cloudinary.com/inmemori/image/upload/v1615387447/Flowers/Limeil/Constellation.jpg"
+      ],
+      "info":{
+        "fr":"Couronne de roses composée de rose, santini, arum et feuillage. Dimension : 40 cm de diamètre"
+      }
+    }
+  ]
+}
