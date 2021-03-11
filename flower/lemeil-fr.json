@@ -7,7 +7,7 @@
     {
       "name":"Cassiopée",
       "product":"Bouquet rond aux tons colorés. Dimension : 30 cm",
-      "price":60.00,
+      "price":67.90,
       "img":[
 "https://res.cloudinary.com/inmemori/image/upload/v1615387438/Flowers/Limeil/Cassiope%CC%81e.jpg"
       ],
@@ -18,7 +18,7 @@
     {
       "name":"Centaure",
       "product":"Bouquet rond aux tons colorés. Dimension : 30 cm",
-      "price":60.00,
+      "price":67.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387440/Flowers/Limeil/Centaure.jpg"
       ],
@@ -29,7 +29,7 @@
     {
       "name":"Maïa",
       "product":"Coeur de roses blanches et rouges. Dimension: 35 cm",
-      "price":150.00,
+      "price":166.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387444/Flowers/Limeil/Maia.jpg"
       ],
@@ -40,7 +40,7 @@
     {
       "name":"Andromède",
       "product":"Arrangement de fleurs dans un contenant en béton gris. Cette composition florale dans les tons pastels est composée de lys, muflier, rose, gerbera, feuillage. Dimension : 45 cm",
-      "price":100.00,
+      "price":111.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387425/Flowers/Limeil/Androme%CC%80de.jpg"
       ],
@@ -51,7 +51,7 @@
     {
       "name":"Libertas",
       "product":"Croix composée de rose, dendrodium, santini et feuillage. Dimension : 55 cm",
-      "price":75.00,
+      "price":83.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387441/Flowers/Limeil/Libertas.jpg"
       ],
@@ -62,7 +62,7 @@
     {
       "name":"Persée",
       "product":"Gerbe main dans les tons rouges, jaunes, verts. Composée de muflier, bonny, gerbera, aster, alstomeria, robelini, feuillage. Dimension : 1 m de long",
-      "price":100.00,
+      "price":111.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387454/Flowers/Limeil/Perse%CC%81e.jpg"
       ],
@@ -73,7 +73,7 @@
     {
       "name":"Cephée",
       "product":"Bouquet de 30 roses rouges. Dimension : diamètre de 40 cm et hauteur de 50 cm",
-      "price":85.00,
+      "price":94.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387445/Flowers/Limeil/Cephe%CC%81e.jpg"
       ],
@@ -84,7 +84,7 @@
     {
       "name":"Pégase",
       "product":"Gerbe main dans les tons pastels. Composée de muflier, bonny, gerbera, lys, aster, feuillage. Dimension : 1 m de long",
-      "price":125.00,
+      "price":139.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387454/Flowers/Limeil/Pe%CC%81gase.jpg"
       ],
@@ -95,7 +95,7 @@
     {
       "name":"Orion",
       "product":"Coussin rond dans les tons pastels, composé de rose, santini, alstroemeria, aster, feuillage. Dimension : 40 cm",
-      "price":150.00,
+      "price":166.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615363790/Flowers/Limeil/Orion.jpg"
       ],
@@ -106,7 +106,7 @@
     {
       "name":"Voie lactée",
       "product":"Arrangement de fleurs dans une coupe blanche. Cette composition florale dans les tons blancs est composée de rose, lys, dendrobuim, arum, feuillage. Dimension : 80 cm",
-      "price":150.00,
+      "price":166.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387451/Flowers/Limeil/Voie_lacte%CC%81e.jpg"
       ],
@@ -117,7 +117,7 @@
      {
       "name":"Columba",
       "product":"Panier en bambou composé de 3 pots d'Orchidées blanches (Phalaenopsys) à 2 branches. Dimension : 35 cm de diamètre",
-      "price":120.00,
+      "price":133.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387424/Flowers/Limeil/Columba.jpg"
       ],
@@ -128,7 +128,7 @@
   {
       "name":"Vega",
       "product":"Coupe ronde de plantes diverses. Dimension : 30 cm de diamètre",
-      "price":75.00,
+      "price":83.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615363789/Flowers/Limeil/Vega.jpg"
       ],
@@ -139,7 +139,7 @@
      {
       "name":"Sirius",
       "product":"Coupe rectangulaire de plantes diverses. Dimension : 50 cm de longueur",
-      "price":75.00,
+      "price":83.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615363789/Flowers/Limeil/Sirius.jpg"
       ],
@@ -150,7 +150,7 @@
      {
       "name":"Constellation",
       "product":"Couronne de roses composée de rose, santini, arum et feuillage. Dimension : 40 cm de diamètre",
-      "price":75.00,
+      "price":83.90,
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615387447/Flowers/Limeil/Constellation.jpg"
       ],
