@@ -9,12 +9,12 @@
       "product":"Bouquet bulle Souvenirs Petit",
       "price":50.90,
       "img":[
-        "https://res.cloudinary.com/inmemori/image/upload/v1615395410/Flowers/Pech%20Bleu/01%20-%20Arc-en-ciel_3/01_-_Bouquet_bulle_-_45_-_multicolore_1.jpg"
+        "https://res.cloudinary.com/inmemori/image/upload/v1615395410/Flowers/Pech%20Bleu/01%20-%20Arc-en-ciel_3/01_-_Bouquet_bulle_-_45_-_multicolore_1.jpg",
         "https://res.cloudinary.com/inmemori/image/upload/v1615395410/Flowers/Pech%20Bleu/01%20-%20Arc-en-ciel_3/01_-_Bouquet_bulle_-_45_-_multicolore_2.jpg",
         "https://res.cloudinary.com/inmemori/image/upload/v1615395410/Flowers/Pech%20Bleu/01%20-%20Arc-en-ciel_3/01_-_Bouquet_bulle_-_45_-_multicolore_3.jpg"
       ],
       "info":{
-        "fr":"Ce bouquet rond avec son vase anti-renversement à réserve d'\''eau est composé essentiellement de roses, œillets et alvéolés. Multicolore dans des tons chaleureux, ce bouquet rayonnant témoignera de votre affection aux proches du défunt et aux membres de sa famille."
+      "fr":"Ce bouquet rond avec son vase anti-renversement à réserve d'eau est composé essentiellement de roses, œillets et alvéolés. Multicolore dans des tons chaleureux, ce bouquet rayonnant témoignera de votre affection aux proches du défunt et aux membres de sa famille."
       }
     },
      {
@@ -24,10 +24,10 @@
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615395414/Flowers/Pech%20Bleu/08%20-%20Paradis%20Blanc_3/08_-_Panier_-_110_-_Blanc_1.jpg",
         "https://res.cloudinary.com/inmemori/image/upload/v1615395414/Flowers/Pech%20Bleu/08%20-%20Paradis%20Blanc_3/08_-_Panier_-_110_-_Blanc_2.jpg",
-        "https://res.cloudinary.com/inmemori/image/upload/v1615395414/Flowers/Pech%20Bleu/08%20-%20Paradis%20Blanc_3/08_-_Panier_-_110_-_Blanc_3.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1615395414/Flowers/Pech%20Bleu/08%20-%20Paradis%20Blanc_3/08_-_Panier_-_110_-_Blanc_3.jpg"
       ],
       "info":{
-        "fr":"Cet assemblage de fleurs est composé de roses, œillets, germinis et gypsophiles. Pur comme l'\''affection, dans des tons clairs de blanc, ce panier lumineux témoignera de votre hommage au défunt et aux membres de sa famille."
+        "fr":"Cet assemblage de fleurs est composé de roses, oeillets, germinis et gypsophiles. Pur comme l'affection, dans des tons clairs de blanc, ce panier lumineux témoignera de votre hommage au défunt et aux membres de sa famille."
       }
     },
     {
@@ -40,7 +40,7 @@
         "https://res.cloudinary.com/inmemori/image/upload/v1615395411/Flowers/Pech%20Bleu/02%20-%20Tendresse_3/02_-_Bouquet_bulle_-_55_-_Rose_3.jpg"
       ],
       "info":{
-        "fr":"Ce bouquet rond avec son vase anti-renversement à réserve d'\''eau est composé de roses, germinis et alvéolés. Très doux, dans des tons de rose, ce bouquet délicat témoignera de votre affection aux proches du défunt et aux membres de sa famille."
+        "fr":"Ce bouquet rond avec son vase anti-renversement à réserve d'eau est composé de roses, germinis et alvéolés. Très doux, dans des tons de rose, ce bouquet délicat témoignera de votre affection aux proches du défunt et aux membres de sa famille."
       }
     },
     {
@@ -53,11 +53,10 @@
         "https://res.cloudinary.com/inmemori/image/upload/v1615395416/Flowers/Pech%20Bleu/03%20-%20Ele%CC%81gance_3/03_-_Bouquet_bulle_-_65_-_Blanc_3.jpg"
       ],
       "info":{
-        "fr":"Ce bouquet rond avec son vase anti-renversement à réserve d'\''’eau est composé essentiellement de roses, œillets et alvéolés. Clair, dans des tons de blanc, ce bouquet lumineux témoignera de votre affection aux proches du défunt et aux membres de sa famille."
+        "fr":"Ce bouquet rond avec son vase anti-renversement à réserve d'eau est composé essentiellement de roses, oeillets et alvéolés. Clair, dans des tons de blanc, ce bouquet lumineux témoignera de votre affection aux proches du défunt et aux membres de sa famille."
       }
     },
-   
-    },
+  
     {
       "name":"Amitié",
       "product":"Bouquet haut Tendresse Moyen",
@@ -65,10 +64,10 @@
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615395413/Flowers/Pech%20Bleu/05%20-%20%20Amitie%CC%81_3/05_-_Bouquet_haut_-_85_-_Rose_1.jpg",
         "https://res.cloudinary.com/inmemori/image/upload/v1615395413/Flowers/Pech%20Bleu/05%20-%20%20Amitie%CC%81_3/05_-_Bouquet_haut_-_85_-_Rose_2.jpg",
-        "https://res.cloudinary.com/inmemori/image/upload/v1615395413/Flowers/Pech%20Bleu/05%20-%20%20Amitie%CC%81_3/05_-_Bouquet_haut_-_85_-_Rose_3.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1615395413/Flowers/Pech%20Bleu/05%20-%20%20Amitie%CC%81_3/05_-_Bouquet_haut_-_85_-_Rose_3.jpg"
       ],
       "info":{
-        "fr":"Ce bouquet rond est composé de roses, de lys, d'\''œillets, d'\''alvéolés et fleurs variées. Doux et dans des tons de rose, ce bouquet délicat témoignera de votre hommage au défunt et aux membres de sa famille."
+        "fr":"Ce bouquet rond est composé de roses, de lys, d'oeillets, d'alvéolés et de fleurs variées. Doux et dans des tons de rose, ce bouquet délicat témoignera de votre hommage au défunt et aux membres de sa famille."
 
       }
     },
@@ -79,10 +78,10 @@
       "img":[
       "https://res.cloudinary.com/inmemori/image/upload/v1615395417/Flowers/Pech%20Bleu/11%20-%20Souvenirs_3/11_-_Coussin_-_150_-_Jaune_Blanc_1.jpg",
       "https://res.cloudinary.com/inmemori/image/upload/v1615395417/Flowers/Pech%20Bleu/11%20-%20Souvenirs_3/11_-_Coussin_-_150_-_Jaune_Blanc_2.jpg",
-      "https://res.cloudinary.com/inmemori/image/upload/v1615395417/Flowers/Pech%20Bleu/11%20-%20Souvenirs_3/11_-_Coussin_-_150_-_Jaune_Blanc_3.jpg",
+      "https://res.cloudinary.com/inmemori/image/upload/v1615395417/Flowers/Pech%20Bleu/11%20-%20Souvenirs_3/11_-_Coussin_-_150_-_Jaune_Blanc_3.jpg"
       ],
       "info":{
-        "fr":"Une imposante composition sur laquelle on appose généralement un ruban. Elle est composée de roses, germinis et œillets. Dans des tons clair et lumineux de jaune et blanc, ce coussin rayonnant célébrera les souvenirs et lui rendra un très bel hommage ainsi qu’à sa famille."
+        "fr":"Une imposante composition sur laquelle on appose généralement un ruban. Elle est composée de roses, germinis et oeillets. Dans des tons clair et lumineux de jaune et blanc, ce coussin rayonnant célébrera les souvenirs et lui rendra un très bel hommage ainsi qu’à sa famille."
       }
     },
     {
@@ -95,7 +94,7 @@
         "https://res.cloudinary.com/inmemori/image/upload/v1615395413/Flowers/Pech%20Bleu/06%20-%20Harmonie_3/06_-_Bouquet_haut_-_85_-_Blanc_3.jpg"
       ],
       "info":{
-        "fr":"Ce bouquet rond est composé de roses, de lys, d'\''œillets et d'\''alvéolés. Clair et dans des tons de blanc, ce bouquet lumineux témoignera de votre hommage au défunt et aux membres de sa famille."
+        "fr":"Ce bouquet rond est composé de roses, de lys, d'oeillets, d'alvéolés. Clair et dans des tons de blanc, ce bouquet lumineux témoignera de votre hommage au défunt et aux membres de sa famille."
 
       }
     },
@@ -109,7 +108,7 @@
         "https://res.cloudinary.com/inmemori/image/upload/v1615395414/Flowers/Pech%20Bleu/07%20-%20Soleil%20Couchant_3/07_-_Bouquet_bulle_-_95_-_Orang%C3%A9_3.jpg"
       ],
       "info":{
-        "fr":"Ce bouquet rond à réserve d'\''eau de grande taille est composé de roses, d'\''œillets, d'alvéolés et fleurs variées. Très chaleureux, dans des tons orangés, ce bouquet délicat témoignera de votre attachement aux proches du défunt et aux membres de sa famille."
+        "fr":"Ce bouquet rond à réserve d'eau de grande taille est composé de roses, d'oeillets, d'alvéolés et de fleurs variées. Très chaleureux, dans des tons orangés, ce bouquet délicat témoignera de votre attachement aux proches du défunt et aux membres de sa famille."
       }
     },
    
@@ -120,10 +119,10 @@
       "img":[
         "https://res.cloudinary.com/inmemori/image/upload/v1615395416/Flowers/Pech%20Bleu/09%20-%20Envol_3/09_-_Panier_-_110_-_Rose_1.jpg",
         "https://res.cloudinary.com/inmemori/image/upload/v1615395416/Flowers/Pech%20Bleu/09%20-%20Envol_3/09_-_Panier_-_110_-_Rose_2.jpg",
-        "https://res.cloudinary.com/inmemori/image/upload/v1615395416/Flowers/Pech%20Bleu/09%20-%20Envol_3/09_-_Panier_-_110_-_Rose_3.jpg",
+        "https://res.cloudinary.com/inmemori/image/upload/v1615395416/Flowers/Pech%20Bleu/09%20-%20Envol_3/09_-_Panier_-_110_-_Rose_3.jpg"
       ],
       "info":{
-        "fr":"Cet assemblage de fleurs est composé de roses, œillets, germinis et gypsophiles. Tout en douceur, dans des tons rose, ce panier délicat célébrera les souvenirs et lui rendra un très bel hommage ainsi qu’à sa famille."
+        "fr":"Cet assemblage de fleurs est composé de roses, oeillets, germinis et gypsophiles. Tout en douceur, dans des tons rose, ce panier délicat célébrera les souvenirs et lui rendra un très bel hommage ainsi qu’à sa famille."
       }
     },
     {
@@ -136,7 +135,8 @@
         "https://res.cloudinary.com/inmemori/image/upload/v1615395416/Flowers/Pech%20Bleu/10%20-%20Pense%CC%81es_3/10_-_Raquette_-_130_-_Rouge_Blanc_3.jpg"
       ],
       "info":{
-        "fr":"Une imposante raquette florale sur laquelle on appose généralement un ruban. Elle est composée de roses, lys, germinis et œillets. Dans des tons chaleureux et lumineux de rouge et blanc, cette raquette rayonnante célébrera les souvenirs et lui rendra un très bel hommage ainsi qu’à sa famille."
+        "fr":"Une imposante raquette florale sur laquelle on appose généralement un ruban. Elle est composée de roses, lys, germinis et oeillets. Dans des tons chaleureux et lumineux de rouge et blanc, cette raquette rayonnante célébrera les souvenirs et lui rendra un très bel hommage ainsi qu’à sa famille."
+      }
       },
      {
       "name":"Lumière",
@@ -148,20 +148,20 @@
         "https://res.cloudinary.com/inmemori/image/upload/v1615395411/Flowers/Pech%20Bleu/04%20-%20Lumie%CC%80re_3/04_-_Panier_-_85_-_Jaune_Blanc_3.jpg"
       ],
       "info":{
-        "fr":"Cet assemblage de fleurs est composé de roses, œillets, germinis et gypsophiles. Éclatant et pur, dans des tons clairs et lumineux de jaune et de blanc, ce panier témoignera de votre hommage au défunt et aux membres de sa famille."
-
+        "fr":"Cet assemblage de fleurs est composé de roses, oeillets, germinis et gypsophiles. Éclatant et pur, dans des tons clairs et lumineux de jaune et de blanc, ce panier témoignera de votre hommage au défunt et aux membres de sa famille."
+}
       },
   {
-      "name":"Eternité
+    "name":"Eternité",
       "product":"Gerbe Tendresse Gros",
       "price":194.90,
       "img":[
     "https://res.cloudinary.com/inmemori/image/upload/v1615395418/Flowers/Pech%20Bleu/12%20-%20Eternite%CC%81_3/12_-_Raquette_-_175_-_Rose_Blanc_1.jpg",
     "https://res.cloudinary.com/inmemori/image/upload/v1615395418/Flowers/Pech%20Bleu/12%20-%20Eternite%CC%81_3/12_-_Raquette_-_175_-_Rose_Blanc_2.jpg",
-    "https://res.cloudinary.com/inmemori/image/upload/v1615395418/Flowers/Pech%20Bleu/12%20-%20Eternite%CC%81_3/12_-_Raquette_-_175_-_Rose_Blanc_3.jpg",
+    "https://res.cloudinary.com/inmemori/image/upload/v1615395418/Flowers/Pech%20Bleu/12%20-%20Eternite%CC%81_3/12_-_Raquette_-_175_-_Rose_Blanc_3.jpg"
       ],
       "info":{
-        "fr":"Une imposante raquette florale sur laquelle on appose généralement un ruban. Elle est composée de roses, germinis, œillets et lys. Dans des tons doux et lumineux de rose et blanc, cette composition rayonnante célébrera les souvenirs et lui rendra un très bel hommage ainsi qu’à sa famille."
+        "fr":"Une imposante raquette florale sur laquelle on appose généralement un ruban. Elle est composée de roses, germinis, oeillets et lys. Dans des tons doux et lumineux de rose et blanc, cette composition rayonnante célébrera les souvenirs et lui rendra un très bel hommage ainsi qu’à sa famille."
       }
     }
   ]
